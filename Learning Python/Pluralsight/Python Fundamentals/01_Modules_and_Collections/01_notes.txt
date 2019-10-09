@@ -1,0 +1,47 @@
+Python Fundamentals
+
+Python Books related to Plural Sight
+-Apprentice
+-Journeyman
+-Master
+
+From Fundamentals to Advance python
+single inheritance > multiple inheritance > virtual inheritance
+
+REPL > Read Evaluate Print Loop (IDLE)
+
+print() is a function call in python3 hence the braces
+
+Indentation
+Imagine code/lines replaced with grey lines.
+We should be able to see the structure/indentation of the code
+We should see the levels of code indented
+
+4 white spaces = standard indentation
+Dont mix spaces and tabs
+
+PEP 8 tells how to write python code (guidelines)
+
+Python standard libraries is also called as Batteries Included (aka Modules)
+
+'.' operator is used to drill down into object structures
+
+help(math) or help(math.factorial)
+
+nan - not a number
+inf - infinite
+-inf - negative infinity
+
+null = None
+
+A function that doesnt returns any value, returns None
+
+with statements - avoids resource leaks
+It calls urlopen() function and binds the response to a variable named story
+
+
+**refer words.py on how to write documentation**
+
+
+
+
