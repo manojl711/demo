@@ -1,0 +1,3 @@
+
+09/07/2019 18:01:47: Program Started, Before Infinite Loop
+09/07/2019 18:01:47: CRITICAL!! DATA MINER FOR TX IS NOT WORKING, Last Loaded Tx = 358 mins ago TFM_TXAX

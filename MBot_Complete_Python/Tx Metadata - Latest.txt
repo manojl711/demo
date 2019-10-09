@@ -1,0 +1,1110 @@
+SEBLG407@-SIEBEL016,SEBLJ1011a,sebl1011_export_user.bat,Users export,Interface_1,N,60,N,0430,,Y
+SEBLG407@-SIEBEL016,SEBLJ1012a,sebl1012_import_user_sat.bat,Users sat import,Interface_2,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ1013a,sebl1013_snapshot_user.bat,Users snapshot,Interface_3,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ1014a,sebl1014_user_access.bat,Users access,Interface_4,N,60,N,1900,,Y
+SEBLG407@-SIEBEL016,SEBLJ2001a,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_5,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001af,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_6,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001b,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_7,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001bf,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_8,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001c,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_9,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001cf,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_10,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001d,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_11,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001df,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_12,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001e,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_13,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001ef,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_14,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001f,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_15,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001ff,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_16,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001g,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_17,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001gf,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_18,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001h,sebl2001_imp_opt_anaplan.bat,Sufficiency Report,Interface_19,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001i,sebl2001_imp_opt_anaplan.bat,Promotion SID,Interface_20,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001j,sebl2001_imp_opt_anaplan.bat,Promo Volume,Interface_21,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001k,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_22,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001kf,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_23,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001l,sebl2001_imp_opt_anaplan.bat,RVC,Interface_24,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001lf,sebl2001_imp_opt_anaplan.bat,RVC,Interface_25,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001m,sebl2001_imp_opt_anaplan.bat,Shipment Volume,Interface_26,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001n,sebl2001_imp_opt_anaplan.bat,Sysdate,Interface_27,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001o,sebl2001_imp_opt_anaplan.bat,Users import,Interface_28,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2001p,sebl2001_imp_opt_anaplan.bat,Promo Error Report,Interface_29,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2002a,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite JP,Interface_30,Y,60,N,1730,,N
+SEBLG407@-SIEBEL016,SEBLJ2002b,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite ANZ,Interface_31,Y,60,N,1735,,N
+SEBLG407@-SIEBEL016,SEBLJ2003a,sebl2003_ana_ffm_lock.bat,FFM lock jp,Interface_32,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2003b,sebl2003_ana_ffm_lock.bat,FFM lock anz,Interface_33,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2004a,sebl2004_suff_hubtosat.bat,Sufficiency Satellite,Interface_34,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2005a,sebl2005_exp_anaplan_opt.bat,download from anaplan,Interface_35,Y,40,Y,0800,11/1/2018 2:15,N
+SEBLG407@-SIEBEL016,SEBLJ2005b,sebl2005_exp_anaplan_opt.bat,SVP download,Interface_36,Y,40,N,0900,,N
+SEBLG407@-SIEBEL016,SEBLJ2015a,sebl2015_tfm_wf_ana_rcsv.bat,Reading Anaplan file  to Optima workflow,Interface_37,Y,40,Y,,11/1/2018 8:15,N
+SEBLG407@-SIEBEL016,SEBLJ2016a,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP data to staging,Interface_38,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2017a,sebl2017_ana_usr_security.bat,Upload users to optima,Interface_39,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2018a,sebl2018_Promo_Acc_Del.bat,Deletion into import hub,Interface_40,Y,40,Y,,11/1/2018 9:50,N
+SEBLG407@-SIEBEL016,SEBLJ2019a,sebl2019_imp_hub_anaplan.bat,Update satellite,Interface_41,Y,40,Y,,11/1/2018 0:40,N
+SEBLG407@-SIEBEL016,SEBLJ2101a,sebl2101_ship_add_gtin.bat,shipmentRDS gtin,Interface_42,N,60,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2220a,sebl2220_handshake.bat,Hand shake,Interface_43,Y,40,Y,,11/1/2018 3:59,N
+SEBLG407@-SIEBEL016,SEBLJ2221a,sebl2221_Act_Accept_Del.bat,Activivity accepted delete,Interface_44,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ2222a,sebl2222_snapshot.bat,Snapshots,Interface_45,Y,40,Y,,11/1/2018 10:00,N
+SEBLG407@-SIEBEL016,SEBLJ5104a,sebl5104_tfm_act_pay_imp.bat,EIM import,Interface_46,Y,40,Y,,11/1/2018 0:00,N
+SEBLG407@-SIEBEL016,SEBLJ5104b,sebl5104_tfm_act_pay_imp.bat,EIM import,Interface_47,Y,40,Y,,11/1/2018 4:01,N
+SEBLG407@-SIEBEL016,SEBLJ5106a,sebl5106_tfm_act_hdr_upd.bat,EIM Update Doc Header,Interface_48,Y,40,Y,,11/1/2018 13:30,N
+SEBLG407@-SIEBEL016,SEBLJ5106b,sebl5106_tfm_act_hdr_upd.bat,EIM Update Doc Header,Interface_49,Y,40,Y,,11/1/2018 13:45,N
+SEBLG407@-SIEBEL016,SEBLJ5108a,sebl5108_tfm_csi_stat_upd.bat,EIM Payment Status Update,Interface_50,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5108b,sebl5108_tfm_csi_stat_upd.bat,EIM Payment Status Update,Interface_51,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5110a,sebl5110_tfm_ded_upd.bat,EIM import,Interface_52,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5110b,sebl5110_tfm_ded_upd.bat,EIM import,Interface_53,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5112a,sebl5112_tfm_off_inv_upd.bat,EIM import,Interface_54,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5112b,sebl5112_tfm_off_inv_upd.bat,EIM import,Interface_55,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5114a,sebl5114_tfm_ap_payments.bat,EIM import,Interface_56,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5122a,sebl5122_tfm_postoi_upd.bat,EIM import post oi,Interface_57,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5122b,sebl5122_tfm_postoi_upd.bat,EIM import post oi,Interface_58,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5128a,sebl5128_tfm_sca_off_inv.bat,EIM import,Interface_59,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5128b,sebl5128_tfm_sca_off_inv.bat,EIM import,Interface_60,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5138a,sebl5138_tfm_treasury_upd.bat,EIM import,Interface_61,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5304a,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_62,Y,90,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5304b,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_63,Y,90,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5304c,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_64,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5306a,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_65,Y,90,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5306b,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_66,Y,120,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5306c,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_67,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5308a,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_68,Y,50,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5308b,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_69,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5308c,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_70,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5318a,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_71,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5318b,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_72,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5318c,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_73,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5320a,sebl5320_tfm_ci_index_upd.bat,EIM import CI Index,Interface_74,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5322a,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_75,Y,50,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5322b,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_76,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5322c,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_77,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5324a,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_78,Y,46,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5324c,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_79,Y,46,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5324d,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_80,Y,46,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5328a,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_81,Y,40,Y,,11/1/2018 15:30,N
+SEBLG407@-SIEBEL016,SEBLJ5328f,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_82,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5330a,sebl5330_tfm_fund_adjust.bat,EIM import,Interface_83,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5330f,sebl5330_tfm_fund_adjust.bat,EIM import,Interface_84,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5335a,sebl5335_tfm_acc_team.bat,EIM import,Interface_85,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5505a,sebl5505_tfm_merged_sdcprd.bat,EIM Import  products,Interface_86,Y,60,Y,,11/1/2018 12:15,N
+SEBLG407@-SIEBEL016,SEBLJ5507a,sebl5507_tfm_merged_sdc.bat,EIM Import accounts,Interface_87,Y,70,Y,,11/1/2018 13:30,N
+SEBLG407@-SIEBEL016,SEBLJ5705a,sebl5705_tfm_nsu_mt_imp.bat,EIM import Nos MT,Interface_88,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5707a,sebl5707_tfm_pri_imp.bat,EIM import Pricelist,Interface_89,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5715a,sebl5715_tfm_niv_su_upload.bat,EIM import,Interface_90,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5717a,sebl5717_tfm_tt_pec_upload.bat,EIM import,Interface_91,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5725a,sebl5725_tfm_rev_var_cost.bat,EIM import,Interface_92,Y,40,Y,,11/1/2018 11:00,N
+SEBLG407@-SIEBEL016,SEBLJ5727a,sebl5727_tfm_upload_compl.bat,EIM import,Interface_93,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5729a,sebl5729_tfm_pln_prd_upd.bat,EIM import,Interface_94,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5733a,sebl5733_optima_year_end.bat,EIM import,Interface_95,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5735a,sebl5735_tfm_fund_rate_upd.bat,EIM import,Interface_96,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5735f,sebl5735_tfm_fund_rate_upd.bat,EIM import,Interface_97,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5745a,sebl5745_tfm_del_brdsplit.bat,EIM import,Interface_98,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5752a,sebl5752_tfm_sca_rev_oi.bat,EIM import,Interface_99,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5752b,sebl5752_tfm_sca_rev_oi.bat,EIM import,Interface_100,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5756a,sebl5756_tfm_ff_index.bat,EIM import,Interface_101,Y,40,N,,,N
+SEBLG407@-SIEBEL016,SEBLJ5765a,sebl5765_tfm_autogtin_wf.bat,EIM import Auto Add GTIN,Interface_102,Y,40,Y,,11/1/2018 5:45,N
+SEBLG407@-SIEBEL016,SEBLJ5900a,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_103,Y,40,N,0100,,N
+SEBLG407@-SIEBEL016,SEBLJ5900a,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_104,Y,40,N,1300,,N
+SEBLG407@-SIEBEL016,SEBLJ5900a,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_105,Y,40,N,1900,,N
+SEBLG407@-SIEBEL016,SEBLJ5901a,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_106,Y,40,N,0100,,N
+SEBLG407@-SIEBEL016,SEBLJ5901a,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_107,Y,40,N,1300,,N
+SEBLG407@-SIEBEL016,SEBLJ5901a,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_108,Y,40,N,1900,,N
+SEBLG407@-SIEBEL016,SEBLJ5903a,sebl5903_tfm_wf_adj_mail.bat,Workflow to send E-Mail when Adjsutment is made,Interface_109,Y,40,N,0600,,N
+SEBLG407@-SIEBEL016,SEBLJ5905a,sebl5905_tfm_wf_interflg.bat,Work flow to set offinvoice flag.,Interface_110,Y,40,N,0900,,N
+SEBLG407@-SIEBEL016,SEBLJ5906a,sebl5906_tfm_wf_fundgrp.bat,Workflow to inactivate the fund groups .,Interface_111,Y,40,N,0000,,N
+SEBLG407@-SIEBEL016,SEBLJ5911a,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_112,Y,40,N,0300,,N
+SEBLG407@-SIEBEL016,SEBLJ5911a,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_113,Y,40,N,1430,,N
+SEBLG407@-SIEBEL016,SEBLJ5911a,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_114,Y,40,N,2000,,N
+SEBLG407@-SIEBEL016,SEBLJ5912a,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_115,Y,40,N,0300,,N
+SEBLG407@-SIEBEL016,SEBLJ5912a,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_116,Y,40,N,1430,,N
+SEBLG407@-SIEBEL016,SEBLJ5912a,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_117,Y,40,N,2000,,N
+SEBLG407@-SIEBEL016,SEBLJ5913a,sebl5913_tfm_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_118,Y,40,N,0005,,N
+SEBLG407@-SIEBEL016,SEBLJ5920a,sebl5920_tfm_wf_oneup.bat,EIM import,Interface_119,Y,40,N,0015,,N
+SEBLG407@-SIEBEL016,SEBLJ5921a,sebl5921_tfm_wf_oiexec.bat,EIM import,Interface_120,Y,40,N,0020,,N
+SEBLG407@-SIEBEL016,SEBLJ5922a,sebl5922_tfm_wf_prmoapprov.bat,EIM import,Interface_121,Y,40,N,0030,,N
+SEBLG407@-SIEBEL016,SEBLJ5923a,sebl5923_rev_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_122,N,60,N,0600,,N
+SEBLG407@SDHN5569,SEBLJ2005be,sebl2005_s_cx_daily_stats.sh,Shell Script - Gather Stats,Interface_123,N,60,N,1800,,N
+SEBLG407@SDHN5569,SEBLJ2005bh,sebl2005_s_cx_daily_stats.sh,Shell Script - Gather Stats,Interface_124,N,60,N,1800,,N
+SEBLG407@SDHN5569,SEBLJ2020aa,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_125,N,60,N,0000,,N
+SEBLG407@SDHN5569,SEBLJ2020ab,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_126,N,60,N,0230,,N
+SEBLG407@SDHN5569,SEBLJ2020ac,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_127,N,60,N,0230,,N
+SEBLG407@SDHN5569,SEBLJ2020ad,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_128,N,60,N,0800,,N
+SEBLG407@SDHN5569,SEBLJ2020ae,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_129,N,60,N,0800,,N
+SEBLG407@SDHN5569,SEBLJ2020af,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_130,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020ag,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_131,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020ah,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_132,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020ai,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_133,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020aj,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_134,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020ak,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_135,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020al,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_136,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020am,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_137,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ2020an,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_138,N,60,N,1600,,N
+SEBLG407@SDHN5569,SEBLJ2020ao,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_139,N,60,N,1600,,N
+SEBLG407@SDHN5569,SEBLJ2020ap,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_140,N,60,N,2000,,N
+SEBLG407@SDHN5569,SEBLJ2020aq,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_141,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2020ar,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_142,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2020as,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_143,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2020at,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_144,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2020au,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_145,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2020av,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_146,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2020aw,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_147,N,60,N,2300,,N
+SEBLG407@SDHN5569,SEBLJ2021ab,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_148,N,60,N,1600,,N
+SEBLG407@SDHN5569,SEBLJ2021ac,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_149,N,60,N,1700,,N
+SEBLG407@SDHN5569,SEBLJ2021ad,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_150,N,60,N,2330,,N
+SEBLG407@SDHN5569,SEBLJ2024a,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_151,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ2024af,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_152,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ2026afx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_153,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ2026ax,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_154,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ2100a,sebl2100_ship_add_gtin.sh,Shipment Fix RDS,Interface_155,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ2102a,sebl2102_cfg_model_prod.sh,Shipment Fix RDS,Interface_156,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ31ax,sebl31_tfm_bpt_mat_ref1.sh,Refresh Materialized View,Interface_157,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ32ax,sebl32_tfm_bpt_mat_ref2.sh,Refresh Materialized View,Interface_158,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ3303a,sebl3303_dmat_master.sh,Shell Script - DMAT Master,Interface_159,N,60,N,0400,,N
+SEBLG407@SDHN5569,SEBLJ33ax,sebl33_tfm_bpt_mat_ref3.sh,Refresh Materialized View,Interface_160,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ3505a,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_161,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ3505af,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_162,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ3507a,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract,Interface_163,Y,40,Y,,11/1/2018 10:00,N
+SEBLG407@SDHN5569,SEBLJ4007a,sebl4007_DM2_mbot.sh,Shell Script - M Bot,Interface_164,N,60,N,0400,,N
+SEBLG407@SDHN5569,SEBLJ5000afx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_165,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5000ax,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_166,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5001ax,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report,Interface_167,Y,50,N,,,N
+SEBLG407@SDHN5569,SEBLJ5002ax,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract,Interface_168,Y,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5004a,sebl5004_dmy_gtin_del.sh,Delete dummy GTIN,Interface_169,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5006a,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload,Interface_170,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5007a,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload,Interface_171,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5008a,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract,Interface_172,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5009a,sebl5009_ana_promo_error.sh,Promo Error,Interface_173,Y,40,Y,,11/1/2018 10:10,N
+SEBLG407@SDHN5569,SEBLJ5010aa,sebl5010_ana_ship_tot.sh,Ship tot anaplan,Interface_174,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5100a,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_175,Y,60,N,0900,,N
+SEBLG407@SDHN5569,SEBLJ5100b,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_176,Y,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5100c,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_177,Y,60,N,2100,,N
+SEBLG407@SDHN5569,SEBLJ5100d,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_178,Y,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5100k,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_179,Y,60,N,0300,,N
+SEBLG407@SDHN5569,SEBLJ5100l,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_180,Y,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5100m,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_181,Y,60,N,0430,,N
+SEBLG407@SDHN5569,SEBLJ5100n,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_182,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5101a,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_183,Y,40,N,0500,,N
+SEBLG407@SDHN5569,SEBLJ5101a,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_184,Y,40,N,1000,,N
+SEBLG407@SDHN5569,SEBLJ5101b,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_185,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5102a,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_186,N,60,N,0900,,Y
+SEBLG407@SDHN5569,SEBLJ5102b,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_187,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5102c,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_188,N,60,N,0900,,N
+SEBLG407@SDHN5569,SEBLJ5102d,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_189,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5103a,sebl5103_optima_actuals.sh,PL/SQL - read file,Interface_190,Y,40,Y,1230,11/1/2018 12:45,N
+SEBLG407@SDHN5569,SEBLJ5103b,sebl5103_optima_actuals.sh,PL/SQL - read file,Interface_191,Y,40,Y,,11/1/2018 13:30,N
+SEBLG407@SDHN5569,SEBLJ5105a,sebl5105_optima_act_hdr.sh,PL/SQL Update Doc Header,Interface_192,Y,40,Y,,11/1/2018 13:30,N
+SEBLG407@SDHN5569,SEBLJ5105b,sebl5105_optima_act_hdr.sh,PL/SQL Update Doc Header,Interface_193,Y,40,Y,,11/1/2018 13:45,N
+SEBLG407@SDHN5569,SEBLJ5107a,sebl5107_optima_cst_inv.sh,PL/SQL - extract file CIB trigger,Interface_194,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5107b,sebl5107_optima_cst_inv.sh,PL/SQL - extract file CIB trigger,Interface_195,Y,40,N,0930,,N
+SEBLG407@SDHN5569,SEBLJ5109a,sebl5109_optima_deductions.sh,PL/SQL - read file,Interface_196,Y,40,N,1400,,N
+SEBLG407@SDHN5569,SEBLJ5109b,sebl5109_optima_deductions.sh,PL/SQL - read file,Interface_197,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5111a,sebl5111_optima_off_inv.sh,PL/SQL - extract file CIB trigger,Interface_198,Y,50,N,1000,,N
+SEBLG407@SDHN5569,SEBLJ5113a,sebl5113_optima_ap_pay.sh,Run PL/SQL - Procedure,Interface_199,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5117a,sebl5117_optima_off_invext.sh,PL/SQL - extract file CIB trigger,Interface_200,Y,40,N,0405,,N
+SEBLG407@SDHN5569,SEBLJ5118a,sebl5118_optima_add_gtin.sh,PL/SQL - Error report for Auto GTIN,Interface_201,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5119a,sebl5119_optima_SVP_global.sh,Run PL/SQL - Procedure,Interface_202,Y,40,N,0400,,N
+SEBLG407@SDHN5569,SEBLJ5121a,sebl5121_optima_post_oi.sh,PL/SQL - extract file email trigger,Interface_203,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5121b,sebl5121_optima_post_oi.sh,PL/SQL - extract file email trigger,Interface_204,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5123a,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_205,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5123b,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_206,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5123c,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_207,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5125a,sebl5125_optima_custom_del.sh,PL/SQL - Error report for Custum Delete Process,Interface_208,Y,40,N,0700,,N
+SEBLG407@SDHN5569,SEBLJ5127a,sebl5127_optima_offinv_scl.sh,Run PL/SQL - Procedure,Interface_209,Y,90,N,,,N
+SEBLG407@SDHN5569,SEBLJ5127b,sebl5127_optima_offinv_scl.sh,Run PL/SQL - Procedure,Interface_210,Y,75,N,,,N
+SEBLG407@SDHN5569,SEBLJ5129a,sebl5129_optima_offscl_ext.sh,PL/SQL - extract file CIB trigger,Interface_211,Y,40,N,0405,,N
+SEBLG407@SDHN5569,SEBLJ5140a,sebl5140_optima_treasury.sh,Run PL/SQL - Procedure,Interface_212,Y,40,N,1400,,N
+SEBLG407@SDHN5569,SEBLJ5191a,sebl5191_dqdaily_bus_close.sh,Shell Script - DQ Daily Business Close,Interface_213,N,60,N,0800,,N
+SEBLG407@SDHN5569,SEBLJ5192a,sebl5192_dqdaily_ax_start.sh,Shell Script - DQ AX Start,Interface_214,N,60,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ5194a,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_215,Y,150,N,,,N
+SEBLG407@SDHN5569,SEBLJ5194e,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_216,Y,130,N,1600,,N
+SEBLG407@SDHN5569,SEBLJ5300a,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_217,Y,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5300b,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_218,Y,60,N,0400,,N
+SEBLG407@SDHN5569,SEBLJ5300c,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_219,Y,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ5302a,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_220,Y,90,N,,,N
+SEBLG407@SDHN5569,SEBLJ5302b,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_221,Y,50,N,,,N
+SEBLG407@SDHN5569,SEBLJ5302c,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_222,Y,50,N,,,N
+SEBLG407@SDHN5569,SEBLJ5303a,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_223,Y,90,N,,,N
+SEBLG407@SDHN5569,SEBLJ5303b,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_224,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5303c,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_225,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5305a,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_226,Y,90,N,,,N
+SEBLG407@SDHN5569,SEBLJ5305b,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_227,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5305c,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_228,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5307a,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_229,Y,60,N,,,Y
+SEBLG407@SDHN5569,SEBLJ5307b,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_230,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5307c,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_231,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5317a,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_232,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5317b,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_233,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5317c,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_234,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5319a,sebl5319_optima_ciindxload.sh,PL/SQL - load EIM tables,Interface_235,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5321a,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_236,Y,50,N,,,N
+SEBLG407@SDHN5569,SEBLJ5321b,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_237,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5321c,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_238,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5323a,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_239,Y,46,N,,,N
+SEBLG407@SDHN5569,SEBLJ5323c,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_240,Y,46,N,,,N
+SEBLG407@SDHN5569,SEBLJ5323d,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_241,Y,46,N,,,N
+SEBLG407@SDHN5569,SEBLJ5327a,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_242,Y,40,Y,1430,11/1/2018 15:15,N
+SEBLG407@SDHN5569,SEBLJ5327f,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_243,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5329a,sebl5329_optima_fund_adjst.sh,PL/SQL - read file,Interface_244,Y,40,N,1300,,N
+SEBLG407@SDHN5569,SEBLJ5329f,sebl5329_optima_fund_adjst.sh,PL/SQL - read file,Interface_245,Y,40,N,0200,,N
+SEBLG407@SDHN5569,SEBLJ5332a,sebl5332_optima_int_ord.sh,PL/SQL - extract file CIB trigger,Interface_246,Y,40,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ5332b,sebl5332_optima_int_ord.sh,PL/SQL - extract file CIB trigger,Interface_247,Y,40,N,1300,,N
+SEBLG407@SDHN5569,SEBLJ5334a,sebl5334_tfm_acc_team.sh,PL/SQL - load EIM tables,Interface_248,Y,40,N,1000,,N
+SEBLG407@SDHN5569,SEBLJ5338a,sebl5338_optima_error_rep.sh,Send Error Reports,Interface_249,Y,40,N,1800,,N
+SEBLG407@SDHN5569,SEBLJ53ax,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_250,Y,40,N,0400,,N
+SEBLG407@SDHN5569,SEBLJ53bx,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_251,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ54ax,sebl54_tfm_sdc_ax.sh,Send GC to AX after SDC completes,Interface_252,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5500a,sebl5500_sdc_view_load1.sh,PL/SQL - load Hold tables for SDC,Interface_253,Y,40,Y,1100,11/1/2018 11:15,N
+SEBLG407@SDHN5569,SEBLJ5501a,sebl5501_sdc_view_load2.sh,PL/SQL - load Hold tables for SDC,Interface_254,Y,40,Y,1100,11/1/2018 11:15,N
+SEBLG407@SDHN5569,SEBLJ5502a,sebl5502_sdc_view_load3.sh,PL/SQL - load Hold tables for SDC,Interface_255,Y,40,Y,1100,11/1/2018 11:15,N
+SEBLG407@SDHN5569,SEBLJ5503a,sebl5503_sdc_view_load4.sh,PL/SQL - load Hold tables for SDC,Interface_256,Y,40,Y,1100,11/1/2018 11:15,N
+SEBLG407@SDHN5569,SEBLJ5504a,sebl5504_optima_prd_sdc.sh,PL/SQL - load EIM tables for products,Interface_257,Y,60,Y,,11/1/2018 11:20,N
+SEBLG407@SDHN5569,SEBLJ5506a,sebl5506_optima_acc_sdc.sh,PL/SQL - load EIM tables for accounts,Interface_258,Y,60,Y,,11/1/2018 12:25,N
+SEBLG407@SDHN5569,SEBLJ5508a,sebl5508_optima_err_sdc.sh,PL/SQL - Error report for SDC  Process,Interface_259,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5512a,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_260,Y,130,Y,1230,11/1/2018 13:30,N
+SEBLG407@SDHN5569,SEBLJ5512b,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_261,Y,100,N,1230,,N
+SEBLG407@SDHN5569,SEBLJ5544a,sebl5544_optima_shipto.sh,Run PL/SQL - Procedure,Interface_262,Y,40,N,1100,,N
+SEBLG407@SDHN5569,SEBLJ5545a,sebl5545_optima_cib_shipto.sh,PL/SQL -  CIB trigger,Interface_263,Y,50,N,1255,,N
+SEBLG407@SDHN5569,SEBLJ56ax,sebl56_tfm_fundtrnsfr_ax.sh,Send GC from TX - Fund Transfer to AX,Interface_264,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5704a,sebl5704_optima_nos_mt.sh,PL/SQL - load EIM tables,Interface_265,Y,40,N,1000,,N
+SEBLG407@SDHN5569,SEBLJ5706a,sebl5706_optima_price_list.sh,PL/SQL - load EIM tables,Interface_266,Y,40,N,1300,,N
+SEBLG407@SDHN5569,SEBLJ5708a,sebl5708_optima_base_svp.sh,PL/SQL - load Hold  tables,Interface_267,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5714a,sebl5714_optima_niv_su.sh,Run PL/SQL - Procedure,Interface_268,Y,40,N,1100,,N
+SEBLG407@SDHN5569,SEBLJ5716a,sebl5716_optima_tt_perc.sh,Run PL/SQL - Procedure,Interface_269,Y,40,N,1000,,N
+SEBLG407@SDHN5569,SEBLJ5720a,sebl5720_optima_base_tool.sh,PL/SQL - extract file,Interface_270,Y,40,N,1605,,N
+SEBLG407@SDHN5569,SEBLJ5722a,sebl5722_optima_cust_acq.sh,Run PL/SQL - Procedure,Interface_271,Y,40,Y,,11/1/2018 14:30,N
+SEBLG407@SDHN5569,SEBLJ5724a,sebl5724_optima_revar_cost.sh,Run PL/SQL - Procedure,Interface_272,Y,60,Y,1000,11/1/2018 10:15,N
+SEBLG407@SDHN5569,SEBLJ5726a,sebl5726_optima_compl_upd.sh,Run PL/SQL - Procedure,Interface_273,Y,40,N,1500,,N
+SEBLG407@SDHN5569,SEBLJ5728a,sebl5728_optima_plan_upd.sh,Run PL/SQL - Procedure,Interface_274,Y,40,N,1400,,N
+SEBLG407@SDHN5569,SEBLJ5732a,sebl5732_optima_yr_endupd.sh,PL/SQL - load EIM tables,Interface_275,Y,40,N,1130,,N
+SEBLG407@SDHN5569,SEBLJ5734a,sebl5734_optima_fund_rate.sh,Run PL/SQL - Procedure,Interface_276,Y,40,N,1700,,N
+SEBLG407@SDHN5569,SEBLJ5734f,sebl5734_optima_fund_rate.sh,Run PL/SQL - Procedure,Interface_277,Y,40,N,0300,,N
+SEBLG407@SDHN5569,SEBLJ5744a,sebl5744_optima_del_bsplit.sh,PL/SQL - load EIM tables,Interface_278,Y,40,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ5746a,sebl5746_optima_prd_denorm.sh,PL/SQL -Load EIM tables,Interface_279,Y,60,Y,,11/1/2018 14:40,N
+SEBLG407@SDHN5569,SEBLJ5748a,sebl5748_optima_bd_trans.sh,Budget transfer interface,Interface_280,Y,40,N,1430,,N
+SEBLG407@SDHN5569,SEBLJ5751a,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_281,Y,40,N,1200,,N
+SEBLG407@SDHN5569,SEBLJ5751b,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_282,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5755a,sebl5755_optima_ff_index.sh,Run PL/SQL - Procedure,Interface_283,Y,40,N,0130,,N
+SEBLG407@SDHN5569,SEBLJ5759a,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_284,Y,100,N,,,N
+SEBLG407@SDHN5569,SEBLJ5759b,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_285,Y,120,N,,,N
+SEBLG407@SDHN5569,SEBLJ5760a,sebl5760_tsp_mass_upd.sh,Run PL/SQL - Procedure,Interface_286,Y,40,N,0400,,N
+SEBLG407@SDHN5569,SEBLJ5760f,sebl5760_tsp_mass_upd.sh,Run PL/SQL - Procedure,Interface_287,Y,40,N,0330,,N
+SEBLG407@SDHN5569,SEBLJ5760k,sebl5760_tsp_mass_upd.sh,Run PL/SQL - Procedure,Interface_288,Y,40,N,0330,,N
+SEBLG407@SDHN5569,SEBLJ5761b,sebl5761_sdc_tsp_error.sh,Run PL/SQL - Procedure,Interface_289,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5762a,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_290,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5762b,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_291,Y,40,N,1300,,N
+SEBLG407@SDHN5569,SEBLJ5763a,sebl5763_tsp_complete_agg.sh,Run PL/SQL - Procedure,Interface_292,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ5763f,sebl5763_tsp_complete_agg.sh,Run PL/SQL - Procedure,Interface_293,Y,40,N,0730,,N
+SEBLG407@SDHN5569,SEBLJ5764a,sebl5764_tfm_autogtin.sh,Run PL/SQL - Procedure,Interface_294,Y,90,Y,,11/1/2018 4:30,N
+SEBLG407@SDHN5569,SEBLJ5769a,sebl5769_tsp_snapshot.sh,Run PL/SQL - Procedure,Interface_295,Y,40,N,0730,,N
+SEBLG407@SDHN5569,SEBLJ57ax,sebl57_optima_basevolume.sh,PL/SQL - load EIM tables,Interface_296,Y,40,N,,,N
+SEBLG407@SDHN5569,SEBLJ6100a,sebl6100_frt_init_load.sh,PL/SQL - Fund Reconciliation Report,Interface_297,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ6205a,sebl6205_tfm_real_time.sh,Shell Script - Real time TSP jobs,Interface_298,N,60,N,0500,,Y
+SEBLG407@SDHN5569,SEBLJ6206a,sebl6206_tfm_table_reorg.sh,Shell Script - Table Reorg,Interface_299,Y,200,N,0130,,N
+SEBLG407@SDHN5569,SEBLJ6250a,sebl6250_tfm_clean_arch_tab.sh,Shell Script - Cleaning Archive Tables,Interface_300,Y,200,N,1900,,N
+SEBLG407@SDHN5569,SEBLJ7707a,sebl7707_auto_archive.sh,Shell Script - Reduce Unix prod box disk spa,Interface_301,N,60,N,0530,,N
+SEBLG407@SDHN5569,SEBLJ8006a,sebl8006_sode_val_ASIA.sh,Shell Script - SODE Basic Health check,Interface_302,N,60,N,0300,,N
+SEBLG407@SDHN5569,SEBLJ8007a,sebl8007_sodeADW_load_ASIA.sh,Shell Script - Load file to table ADW,Interface_303,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ8008a,sebl8008_results_ASIA.sh,Run PL/SQL - Procedure,Interface_304,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ8808a,sebl8808_dmat_payment.sh,Shell Script - DMAT Payment,Interface_305,N,60,N,0830,,N
+SEBLG407@SDHN5569,SEBLJ93ax,sebl93_dqdaily_eod.sh,Shell Script - DQ Daily EOD Validation,Interface_306,N,60,N,,,N
+SEBLG407@SDHN5569,SEBLJ9909a,sebl9909_dmat_shipment.sh,Shell Script - DMAT Shipment,Interface_307,Y,40,N,2230,,N
+SEBLG408@-SIEBEL014,SEBLJ1011b,sebl1011_export_user.bat,Users export,Interface_308,N,60,N,0430,,Y
+SEBLG408@-SIEBEL014,SEBLJ1012b,sebl1012_import_user_sat.bat,Users sat import,Interface_309,N,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ1013b,sebl1013_snapshot_user.bat,Users snapshot,Interface_310,N,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ1014b,sebl1014_user_access.bat,Users access,Interface_311,N,60,N,1900,,Y
+SEBLG408@-SIEBEL014,SEBLJ2001ba,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_312,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001baf,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_313,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bb,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_314,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bbf,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_315,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bc,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_316,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bcf,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_317,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bd,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_318,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bdf,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_319,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001be,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_320,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bef,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_321,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bff,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_322,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bfz,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_323,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bg,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_324,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bgf,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_325,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bh,sebl2001_imp_opt_anaplan.bat,Sufficiency Report,Interface_326,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bi,sebl2001_imp_opt_anaplan.bat,Promotion SID,Interface_327,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bj,sebl2001_imp_opt_anaplan.bat,Promo Volume,Interface_328,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bk,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_329,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bkf,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_330,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bl,sebl2001_imp_opt_anaplan.bat,RVC,Interface_331,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001blf,sebl2001_imp_opt_anaplan.bat,RVC,Interface_332,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bm,sebl2001_imp_opt_anaplan.bat,Shipment Volume,Interface_333,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bn,sebl2001_imp_opt_anaplan.bat,Sysdate,Interface_334,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001bp,sebl2001_imp_opt_anaplan.bat,Promo Error Report,Interface_335,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2001ob,sebl2001_imp_opt_anaplan.bat,Users import,Interface_336,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2002bi,sebl2002_imp_hub_anaplan.bat,Anaplan Hub to Satellite,Interface_337,Y,60,N,0130,,N
+SEBLG408@-SIEBEL014,SEBLJ2003ba,sebl2003_ana_ffm_lock.bat,FFM lock SA,Interface_338,N,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2004b,sebl2004_suff_hubtosat.bat,Sufficiency Satellite,Interface_339,N,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2005bb,sebl2005_exp_anaplan_opt.bat,Download from Anaplan,Interface_340,Y,40,N,1400,,N
+SEBLG408@-SIEBEL014,SEBLJ2005bc,sebl2005_exp_anaplan_opt.bat,SVP Download,Interface_341,Y,40,N,1530,,N
+SEBLG408@-SIEBEL014,SEBLJ2015ba,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan Optima workflow,Interface_342,Y,40,N,,,Y
+SEBLG408@-SIEBEL014,SEBLJ2016b,sebl2016_tfmwfana_rtsvol.bat,TSP data to staging,Interface_343,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2017b,sebl2017_ana_usr_security.bat,Upload users to optima,Interface_344,N,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2018b,sebl2018_Promo_Acc_Del.bat,Deletion into import hub,Interface_345,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2019b,sebl2019_imp_hub_anaplan.bat,Update satellite,Interface_346,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2101c,sebl2101_ship_add_gtin.bat,shipmentRDS gtin,Interface_347,N,60,N,,,Y
+SEBLG408@-SIEBEL014,SEBLJ2220b,sebl2220_handshake.bat,Hand shake,Interface_348,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2221b,sebl2221_Act_Accept_Del.bat,Activivity accepted delete,Interface_349,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ2222bz,sebl2222_snapshot.bat,Snapshots,Interface_350,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5104d,sebl5104_tfm_act_pay_imp.bat,EIM import,Interface_351,Y,40,Y,,11/1/2018 20:00,N
+SEBLG408@-SIEBEL014,SEBLJ5106d,sebl5106_tfm_act_hdr_upd.bat,EIM Update Doc Header,Interface_352,Y,40,Y,,11/1/2018 20:00,N
+SEBLG408@-SIEBEL014,SEBLJ5108d,sebl5108_tfm_csi_stat_upd.bat,EIM Payment Status Update,Interface_353,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5110d,sebl5110_tfm_ded_upd.bat,EIM import,Interface_354,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5114c,sebl5114_tfm_ap_payments.bat,EIM import,Interface_355,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5122d,sebl5122_tfm_postoi_upd.bat,EIM import post oi,Interface_356,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5128e,sebl5128_tfm_sca_off_inv.bat,EIM import,Interface_357,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5138c,sebl5138_tfm_treasury_upd.bat,EIM import,Interface_358,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5304g,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_359,Y,50,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5304h,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_360,Y,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5304j,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_361,Y,46,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5306g,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_362,Y,50,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5306h,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_363,Y,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5306j,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_364,Y,46,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5308g,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_365,Y,50,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5308h,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_366,Y,46,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5308j,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_367,Y,46,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5318g,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_368,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5318h,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_369,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5318j,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_370,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5320g,sebl5320_tfm_ci_index_upd.bat,EIM import CI Index,Interface_371,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5322g,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_372,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5322h,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_373,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5322j,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_374,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5324j,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_375,Y,46,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5324l,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_376,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5324m,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_377,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5328c,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_378,Y,40,Y,,11/1/2018 22:20,N
+SEBLG408@-SIEBEL014,SEBLJ5328e,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_379,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5328g,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_380,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5330c,sebl5330_tfm_fund_adjust.bat,EIM import,Interface_381,Y,40,Y,,11/1/2018 19:15,N
+SEBLG408@-SIEBEL014,SEBLJ5335c,sebl5335_tfm_acc_team.bat,EIM import,Interface_382,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5505c,sebl5505_tfm_merged_sdcprd.bat,EIM Import  products,Interface_383,Y,60,Y,,11/1/2018 13:45,N
+SEBLG408@-SIEBEL014,SEBLJ5507c,sebl5507_tfm_merged_sdc.bat,EIM Import accounts,Interface_384,Y,80,Y,,11/1/2018 14:30,N
+SEBLG408@-SIEBEL014,SEBLJ5705c,sebl5705_tfm_nsu_mt_imp.bat,EIM import Nos MT,Interface_385,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5707c,sebl5707_tfm_pri_imp.bat,EIM import Pricelist,Interface_386,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5715c,sebl5715_tfm_niv_su_upload.bat,EIM import,Interface_387,Y,80,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5717c,sebl5717_tfm_tt_pec_upload.bat,EIM import,Interface_388,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5725c,sebl5725_tfm_rev_var_cost.bat,EIM import,Interface_389,Y,40,N,,11/1/2018 18:15,N
+SEBLG408@-SIEBEL014,SEBLJ5727c,sebl5727_tfm_upload_compl.bat,EIM import,Interface_390,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5727e,sebl5727_tfm_upload_compl.bat,EIM import,Interface_391,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5729c,sebl5729_tfm_pln_prd_upd.bat,EIM import,Interface_392,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5733c,sebl5733_optima_year_end.bat,EIM import,Interface_393,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5733e,sebl5733_optima_year_end.bat,EIM import,Interface_394,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5735c,sebl5735_tfm_fund_rate_upd.bat,EIM import,Interface_395,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5745c,sebl5745_tfm_del_brdsplit.bat,EIM import,Interface_396,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5752e,sebl5752_tfm_sca_rev_oi.bat,EIM import,Interface_397,Y,40,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5765c,sebl5765_tfm_autogtin_wf.bat,EIM import Auto Add GTIN,Interface_398,Y,40,Y,,11/1/2018 17:00,N
+SEBLG408@-SIEBEL014,SEBLJ5900c,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_399,Y,40,N,0100,,N
+SEBLG408@-SIEBEL014,SEBLJ5900c,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_400,Y,40,N,1300,,N
+SEBLG408@-SIEBEL014,SEBLJ5900c,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_401,Y,40,N,1900,,N
+SEBLG408@-SIEBEL014,SEBLJ5901c,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_402,Y,40,N,0100,,N
+SEBLG408@-SIEBEL014,SEBLJ5901c,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_403,Y,40,N,1300,,N
+SEBLG408@-SIEBEL014,SEBLJ5901c,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_404,Y,40,N,1900,,N
+SEBLG408@-SIEBEL014,SEBLJ5903c,sebl5903_tfm_wf_adj_mail.bat,Workflow to send E-Mail when Adjsutment is made,Interface_405,Y,40,N,0600,,N
+SEBLG408@-SIEBEL014,SEBLJ5905e,sebl5905_tfm_wf_interflg.bat,EIM import,Interface_406,Y,40,N,1530,,N
+SEBLG408@-SIEBEL014,SEBLJ5906c,sebl5906_tfm_wf_fundgrp.bat,Workflow to inactivate the fund groups .,Interface_407,Y,40,N,0000,,N
+SEBLG408@-SIEBEL014,SEBLJ5910c,sebl5910_tfm_wf_SVP.bat,workflow for svp automation,Interface_408,N,60,N,,,N
+SEBLG408@-SIEBEL014,SEBLJ5911c,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_409,Y,40,N,0300,,N
+SEBLG408@-SIEBEL014,SEBLJ5911c,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_410,Y,40,N,1430,,N
+SEBLG408@-SIEBEL014,SEBLJ5911c,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_411,Y,40,N,2000,,N
+SEBLG408@-SIEBEL014,SEBLJ5912c,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_412,Y,40,N,0300,,N
+SEBLG408@-SIEBEL014,SEBLJ5912c,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_413,Y,40,N,1430,,N
+SEBLG408@-SIEBEL014,SEBLJ5912c,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_414,Y,40,N,2000,,N
+SEBLG408@-SIEBEL014,SEBLJ5913c,sebl5913_tfm_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_415,Y,40,N,0005,,N
+SEBLG408@-SIEBEL014,SEBLJ5920c,sebl5920_tfm_wf_oneup.bat,EIM import,Interface_416,Y,40,N,0015,,N
+SEBLG408@-SIEBEL014,SEBLJ5921c,sebl5921_tfm_wf_oiexec.bat,EIM import,Interface_417,Y,60,N,0020,,N
+SEBLG408@-SIEBEL014,SEBLJ5922c,sebl5922_tfm_wf_prmoapprov.bat,EIM import,Interface_418,Y,40,N,0030,,N
+SEBLG408@-SIEBEL014,SEBLJ5923c,sebl5923_rev_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_419,N,60,N,1300,,N
+SEBLG408@SDHN5569,SEBLJ2005bm,sebl2005_s_cx_daily_stats.sh,Shell Script - Gather Stats,Interface_420,N,60,N,0000,,N
+SEBLG408@SDHN5569,SEBLJ2020ca,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_421,N,60,N,0000,,N
+SEBLG408@SDHN5569,SEBLJ2020cb,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_422,N,60,N,0030,,N
+SEBLG408@SDHN5569,SEBLJ2020cc,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_423,N,60,N,0900,,N
+SEBLG408@SDHN5569,SEBLJ2020cd,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_424,N,60,N,1000,,N
+SEBLG408@SDHN5569,SEBLJ2020ce,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_425,N,60,N,1000,,N
+SEBLG408@SDHN5569,SEBLJ2020cf,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_426,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2020cg,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_427,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2020ch,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_428,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2020ci,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_429,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2020cj,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_430,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2020ck,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_431,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2021cb,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_432,N,60,N,0500,,N
+SEBLG408@SDHN5569,SEBLJ2021cc,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_433,N,60,N,1700,,N
+SEBLG408@SDHN5569,SEBLJ2021cd,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_434,N,60,N,1800,,N
+SEBLG408@SDHN5569,SEBLJ2021ce,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_435,N,60,N,1800,,N
+SEBLG408@SDHN5569,SEBLJ2024b,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_436,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ2024bf,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_437,Y,50,N,,,N
+SEBLG408@SDHN5569,SEBLJ2026bx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_438,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ2026bxf,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_439,Y,50,N,,,N
+SEBLG408@SDHN5569,SEBLJ2100c,sebl2100_ship_add_gtin.sh,Run PL/SQL - Procedure,Interface_440,N,60,N,,,Y
+SEBLG408@SDHN5569,SEBLJ2102c,sebl2102_cfg_model_prod.sh,Run PL/SQL - Procedure,Interface_441,N,60,N,,,Y
+SEBLG408@SDHN5569,SEBLJ31cx,sebl31_tfm_bpt_mat_ref1.sh,Refresh Materialized View,Interface_442,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ32cx,sebl32_tfm_bpt_mat_ref2.sh,Refresh Materialized View,Interface_443,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ3303c,sebl3303_dmat_master.sh,Shell Script - DMAT Master,Interface_444,N,60,N,0425,,N
+SEBLG408@SDHN5569,SEBLJ33cx,sebl33_tfm_bpt_mat_ref3.sh,Refresh Materialized View,Interface_445,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ3505b,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_446,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ3505bf,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_447,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ3507b,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract,Interface_448,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5000bx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_449,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5000bxf,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_450,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5001bx,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report,Interface_451,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5002bx,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract,Interface_452,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5004b,sebl5004_dmy_gtin_del.sh,Delete dummy GTIN,Interface_453,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5006b,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload,Interface_454,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5007b,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload,Interface_455,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5008b,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract,Interface_456,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5009b,sebl5009_ana_promo_error.sh,Anaplan Promo Error,Interface_457,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5010ba,sebl5010_ana_ship_tot.sh,Ship tot anaplan,Interface_458,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5100g,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_459,Y,60,N,1300,,N
+SEBLG408@SDHN5569,SEBLJ5100h,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_460,Y,40,N,0100,,N
+SEBLG408@SDHN5569,SEBLJ5101g,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_461,Y,40,N,1500,,N
+SEBLG408@SDHN5569,SEBLJ5102g,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_462,N,60,N,0100,,N
+SEBLG408@SDHN5569,SEBLJ5102h,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_463,N,60,N,0100,,Y
+SEBLG408@SDHN5569,SEBLJ5103d,sebl5103_optima_actuals.sh,PL/SQL - read file,Interface_464,Y,40,Y,1930,11/1/2018 19:45,N
+SEBLG408@SDHN5569,SEBLJ5105d,sebl5105_optima_act_hdr.sh,PL/SQL Update Doc Header,Interface_465,Y,40,Y,,11/1/2018 20:00,N
+SEBLG408@SDHN5569,SEBLJ5107d,sebl5107_optima_cst_inv.sh,PL/SQL - extract file CIB trigger,Interface_466,Y,40,N,1400,,N
+SEBLG408@SDHN5569,SEBLJ5109d,sebl5109_optima_deductions.sh,PL/SQL - read file,Interface_467,Y,40,N,0730,,N
+SEBLG408@SDHN5569,SEBLJ5113c,sebl5113_optima_ap_pay.sh,Run PL/SQL - Procedure,Interface_468,Y,40,N,1430,,N
+SEBLG408@SDHN5569,SEBLJ5118c,sebl5118_optima_add_gtin.sh,PL/SQL - Error report for Auto GTIN,Interface_469,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5121d,sebl5121_optima_post_oi.sh,PL/SQL - extract file email trigger,Interface_470,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5123g,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_471,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5123h,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_472,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5123j,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_473,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5125c,sebl5125_optima_custom_del.sh,PL/SQL - Error report for Custum Delete Process,Interface_474,Y,40,N,0130,,N
+SEBLG408@SDHN5569,SEBLJ5127e,sebl5127_optima_offinv_scl.sh,Run PL/SQL - Procedure,Interface_475,Y,80,N,1600,,N
+SEBLG408@SDHN5569,SEBLJ5129e,sebl5129_optima_offscl_ext.sh,PL/SQL - extract file CIB trigger,Interface_476,Y,40,N,0435,,N
+SEBLG408@SDHN5569,SEBLJ5140c,sebl5140_optima_treasury.sh,Run PL/SQL - Procedure,Interface_477,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5191c,sebl5191_dqdaily_bus_close.sh,Shell Script - DQ Daily Business Close,Interface_478,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ5192c,sebl5192_dqdaily_ax_start.sh,Shell Script - DQ AX Start,Interface_479,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ5194c,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_480,Y,100,N,,,N
+SEBLG408@SDHN5569,SEBLJ5194d,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_481,Y,60,N,1800,,N
+SEBLG408@SDHN5569,SEBLJ5300g,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_482,Y,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ5300h,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_483,Y,40,N,0900,,N
+SEBLG408@SDHN5569,SEBLJ5300j,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_484,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5302g,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_485,Y,70,N,,,N
+SEBLG408@SDHN5569,SEBLJ5302h,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_486,Y,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ5302j,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_487,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5303g,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_488,Y,50,N,,,N
+SEBLG408@SDHN5569,SEBLJ5303h,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_489,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5303j,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_490,Y,46,N,,,N
+SEBLG408@SDHN5569,SEBLJ5305g,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_491,Y,50,N,,,N
+SEBLG408@SDHN5569,SEBLJ5305h,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_492,Y,46,N,,,N
+SEBLG408@SDHN5569,SEBLJ5305j,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_493,Y,46,N,,,N
+SEBLG408@SDHN5569,SEBLJ5307g,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_494,Y,50,N,,,N
+SEBLG408@SDHN5569,SEBLJ5307h,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_495,Y,46,N,,,N
+SEBLG408@SDHN5569,SEBLJ5307j,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_496,Y,46,N,,,N
+SEBLG408@SDHN5569,SEBLJ5317g,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_497,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5317h,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_498,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5317j,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_499,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5319g,sebl5319_optima_ciindxload.sh,PL/SQL - load EIM tables,Interface_500,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5321g,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_501,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5321h,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_502,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5321j,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_503,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5323j,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_504,Y,46,N,,,N
+SEBLG408@SDHN5569,SEBLJ5323l,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_505,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5323m,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_506,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5327c,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_507,Y,40,Y,,11/1/2018 22:20,N
+SEBLG408@SDHN5569,SEBLJ5327g,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_508,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5329c,sebl5329_optima_fund_adjst.sh,PL/SQL - read file,Interface_509,Y,40,Y,1900,11/1/2018 19:15,N
+SEBLG408@SDHN5569,SEBLJ5332d,sebl5332_optima_int_ord.sh,PL/SQL - extract file CIB trigger,Interface_510,Y,40,N,1800,,N
+SEBLG408@SDHN5569,SEBLJ5334c,sebl5334_tfm_acc_team.sh,PL/SQL - load EIM tables,Interface_511,Y,40,N,1600,,N
+SEBLG408@SDHN5569,SEBLJ5338b,sebl5338_optima_error_rep.sh,Send Error Reports,Interface_512,Y,40,N,0000,,N
+SEBLG408@SDHN5569,SEBLJ53gx,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_513,Y,40,N,0930,,N
+SEBLG408@SDHN5569,SEBLJ53hx,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_514,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ54cx,sebl54_tfm_sdc_ax.sh,Send GC to AX after Global SVP completes,Interface_515,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5500c,sebl5500_sdc_view_load1.sh,PL/SQL - load Hold tables for SDC,Interface_516,Y,40,Y,1200,12/1/2018 12:15,N
+SEBLG408@SDHN5569,SEBLJ5501c,sebl5501_sdc_view_load2.sh,PL/SQL - load Hold tables for SDC,Interface_517,Y,40,Y,1200,12/1/2018 12:15,N
+SEBLG408@SDHN5569,SEBLJ5502c,sebl5502_sdc_view_load3.sh,PL/SQL - load Hold tables for SDC,Interface_518,Y,40,Y,1200,12/1/2018 12:15,N
+SEBLG408@SDHN5569,SEBLJ5503c,sebl5503_sdc_view_load4.sh,PL/SQL - load Hold tables for SDC,Interface_519,Y,40,Y,1200,12/1/2018 12:15,N
+SEBLG408@SDHN5569,SEBLJ5504c,sebl5504_optima_prd_sdc.sh,PL/SQL - load EIM tables for products,Interface_520,Y,120,Y,,11/1/2018 11:59,N
+SEBLG408@SDHN5569,SEBLJ5506c,sebl5506_optima_acc_sdc.sh,PL/SQL - load EIM tables for accounts,Interface_521,Y,60,Y,,11/1/2018 14:00,N
+SEBLG408@SDHN5569,SEBLJ5508c,sebl5508_optima_err_sdc.sh,PL/SQL - Error report for SDC  Process,Interface_522,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5512e,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_523,Y,160,Y,,11/1/2018 20:00,N
+SEBLG408@SDHN5569,SEBLJ5512f,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_524,Y,160,N,,,N
+SEBLG408@SDHN5569,SEBLJ5544c,sebl5544_optima_shipto.sh,Run PL/SQL - Procedure,Interface_525,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5545c,sebl5545_optima_cib_shipto.sh,PL/SQL -  CIB trigger,Interface_526,Y,40,N,2055,,N
+SEBLG408@SDHN5569,SEBLJ55cx,sebl55_tfm_ax_revcost.sh,Recieve GC from AX to RevCost job,Interface_527,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ56cx,sebl56_tfm_fundtrnsfr_ax.sh,Send GC from TX - Fund Transfer to AX,Interface_528,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5704c,sebl5704_optima_nos_mt.sh,PL/SQL - load EIM tables,Interface_529,Y,40,N,1600,,N
+SEBLG408@SDHN5569,SEBLJ5706c,sebl5706_optima_price_list.sh,PL/SQL - load EIM tables,Interface_530,Y,40,N,1900,,N
+SEBLG408@SDHN5569,SEBLJ5708c,sebl5708_optima_base_svp.sh,PL/SQL - load Hold  tables,Interface_531,Y,50,N,,,N
+SEBLG408@SDHN5569,SEBLJ5708cn,sebl5708_optima_base_svp.sh,PL/SQL - load Hold  tables,Interface_532,Y,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ5714c,sebl5714_optima_niv_su.sh,Run PL/SQL - Procedure,Interface_533,Y,80,N,2300,,N
+SEBLG408@SDHN5569,SEBLJ5716c,sebl5716_optima_tt_perc.sh,Run PL/SQL - Procedure,Interface_534,Y,40,N,2200,,N
+SEBLG408@SDHN5569,SEBLJ5722c,sebl5722_optima_cust_acq.sh,Run PL/SQL - Procedure,Interface_535,Y,40,Y,,11/1/2018 15:30,N
+SEBLG408@SDHN5569,SEBLJ5724c,sebl5724_optima_revar_cost.sh,Run PL/SQL - Procedure,Interface_536,Y,60,N,,11/1/2018 18:15,N
+SEBLG408@SDHN5569,SEBLJ5726c,sebl5726_optima_compl_upd.sh,Run PL/SQL - Procedure,Interface_537,Y,40,N,1100,,N
+SEBLG408@SDHN5569,SEBLJ5726e,sebl5726_optima_compl_upd.sh,Run PL/SQL - Procedure,Interface_538,Y,40,N,1300,,N
+SEBLG408@SDHN5569,SEBLJ5728c,sebl5728_optima_plan_upd.sh,Run PL/SQL - Procedure,Interface_539,Y,40,N,1300,,N
+SEBLG408@SDHN5569,SEBLJ5732c,sebl5732_optima_yr_endupd.sh,Run PL/SQL - Procedure,Interface_540,Y,40,N,1130,,N
+SEBLG408@SDHN5569,SEBLJ5732e,sebl5732_optima_yr_endupd.sh,Run PL/SQL - Procedure,Interface_541,Y,40,N,1230,,N
+SEBLG408@SDHN5569,SEBLJ5734c,sebl5734_optima_fund_rate.sh,Run PL/SQL - Procedure,Interface_542,Y,40,N,0200,,N
+SEBLG408@SDHN5569,SEBLJ5744c,sebl5744_optima_del_bsplit.sh,PL/SQL - load EIM tables,Interface_543,Y,40,N,1800,,N
+SEBLG408@SDHN5569,SEBLJ5746c,sebl5746_optima_prd_denorm.sh,PL/SQL -Load EIM tables,Interface_544,Y,50,Y,,11/1/2018 15:30,N
+SEBLG408@SDHN5569,SEBLJ5748b,sebl5748_optima_bd_trans.sh,Budget transfer interface,Interface_545,Y,40,N,2030,,N
+SEBLG408@SDHN5569,SEBLJ5751e,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_546,Y,40,N,1600,,N
+SEBLG408@SDHN5569,SEBLJ5751f,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_547,Y,40,N,1600,,N
+SEBLG408@SDHN5569,SEBLJ5759d,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_548,Y,100,N,,,N
+SEBLG408@SDHN5569,SEBLJ5759e,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_549,Y,90,N,,,N
+SEBLG408@SDHN5569,SEBLJ5760c,sebl5760_tsp_mass_upd.sh,Run PL/SQL - Procedure,Interface_550,Y,40,N,0400,,N
+SEBLG408@SDHN5569,SEBLJ5761e,sebl5761_sdc_tsp_error.sh,Run PL/SQL - Procedure,Interface_551,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5762c,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_552,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ5762e,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_553,Y,40,N,2200,,N
+SEBLG408@SDHN5569,SEBLJ5763c,sebl5763_tsp_complete_agg.sh,Run PL/SQL - Procedure,Interface_554,Y,130,N,,,N
+SEBLG408@SDHN5569,SEBLJ5764c,sebl5764_tfm_autogtin.sh,Run PL/SQL - Procedure,Interface_555,Y,110,Y,,11/1/2018 15:30,N
+SEBLG408@SDHN5569,SEBLJ5769c,sebl5769_tsp_snapshot.sh,Run PL/SQL - Procedure,Interface_556,Y,70,N,1200,,N
+SEBLG408@SDHN5569,SEBLJ57cx,sebl57_optima_basevolume.sh,PL/SQL - load EIM tables,Interface_557,Y,40,N,,,N
+SEBLG408@SDHN5569,SEBLJ57cz,sebl57_optima_basevolume.sh,PL/SQL - load EIM tables,Interface_558,Y,70,N,,,N
+SEBLG408@SDHN5569,SEBLJ6100c,sebl6100_frt_init_load.sh,PL/SQL - Fund Reconciliation Report,Interface_559,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ6205c,sebl6205_tfm_real_time.sh,Shell Script - Real time TSP jobs,Interface_560,N,60,N,0500,,N
+SEBLG408@SDHN5569,SEBLJ6206a,sebl6206_tfm_table_reorg.sh,Shell Script - Table Reorg,Interface_561,Y,180,N,0130,,N
+SEBLG408@SDHN5569,SEBLJ6250c,sebl6250_tfm_clean_arch_tab.sh,Shell Script - Cleaning Archive Tables,Interface_562,Y,100,N,0500,,N
+SEBLG408@SDHN5569,SEBLJ7707c,sebl7707_auto_archive.sh,Shell Script - Reduce Unix prod box disk spa,Interface_563,N,60,N,0730,,N
+SEBLG408@SDHN5569,SEBLJ8003j,sebl8003_sode_val_CE.sh,Shell Script - SODE Basic Health check,Interface_564,N,60,N,0600,,N
+SEBLG408@SDHN5569,SEBLJ8004j,sebl8004_sodeADW_load_CE.sh,Shell Script - Load file to table ADW,Interface_565,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ8005j,sebl8005_results_CE.sh,Run PL/SQL - Procedure,Interface_566,N,60,N,,,N
+SEBLG408@SDHN5569,SEBLJ93cx,sebl93_dqdaily_eod.sh,Shell Script - DQ Daily EOD Validation,Interface_567,N,60,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ua,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_568,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uaf,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_569,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ub,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_570,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ubf,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_571,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uc,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_572,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ucf,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_573,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ud,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_574,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001udf,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_575,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ue,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_576,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uef,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_577,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uf,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_578,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uff,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_579,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ug,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_580,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ugf,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_581,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uh,sebl2001_imp_opt_anaplan.bat,Sufficiency Report,Interface_582,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ui,sebl2001_imp_opt_anaplan.bat,Promotion SID,Interface_583,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uj,sebl2001_imp_opt_anaplan.bat,Promo Volume,Interface_584,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001uk,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_585,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ukf,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_586,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ul,sebl2001_imp_opt_anaplan.bat,RVC,Interface_587,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001ulf,sebl2001_imp_opt_anaplan.bat,RVC,Interface_588,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001um,sebl2001_imp_opt_anaplan.bat,Shipment Volume,Interface_589,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001un,sebl2001_imp_opt_anaplan.bat,Sysdate,Interface_590,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2001up,sebl2001_imp_opt_anaplan.bat,Promo Error Report,Interface_591,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2002ua,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite UKC1,Interface_592,Y,40,N,0130,,N
+SEBLG409@-SIEBEL018,SEBLJ2002ub,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite UKC2,Interface_593,Y,40,N,0135,,N
+SEBLG409@-SIEBEL018,SEBLJ2003ua,sebl2003_ana_ffm_lock.bat,FFM lock UKC1,Interface_594,N,60,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2003ub,sebl2003_ana_ffm_lock.bat,FFM lock UKC2,Interface_595,N,60,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2004u,sebl2004_suff_hubtosat.bat,Sufficiency Satellite,Interface_596,N,60,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2005ub,sebl2005_exp_anaplan_opt.bat,Download from Anaplan,Interface_597,Y,40,N,1600,,N
+SEBLG409@-SIEBEL018,SEBLJ2005uc,sebl2005_exp_anaplan_opt.bat,SVP Download,Interface_598,Y,40,N,1530,,N
+SEBLG409@-SIEBEL018,SEBLJ2006aa,sebl2006_pea_imp_anaplan.bat,import PEA CEEMEA,Interface_599,Y,40,N,0100,,N
+SEBLG409@-SIEBEL018,SEBLJ2006ab,sebl2006_pea_imp_anaplan.bat,import pea APAC,Interface_600,Y,40,N,1300,,N
+SEBLG409@-SIEBEL018,SEBLJ2006ac,sebl2006_pea_imp_anaplan.bat,Pea Import script for nala,Interface_601,Y,40,N,0110,,N
+SEBLG409@-SIEBEL018,SEBLJ2006ad,sebl2006_pea_imp_anaplan.bat,Pea Import script for we,Interface_602,Y,250,N,1900,,N
+SEBLG409@-SIEBEL018,SEBLJ2007aa,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA EMEA,Interface_603,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2007ab,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA APAC,Interface_604,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2007ac,sebl2007_pea_imp_hub_anpln.bat,Update Pea (Full) nala,Interface_605,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2007ad,sebl2007_pea_imp_hub_anpln.bat,Update Pea (Full) we,Interface_606,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2010aa,sebl2010_pea_exp_ana_ce.bat,export PEA EMEA,Interface_607,Y,40,N,0130,,N
+SEBLG409@-SIEBEL018,SEBLJ2010ab,sebl2010_pea_exp_ana_ce.bat,export PEA EMEA,Interface_608,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2011aa,sebl2011_pea_exp_ana_apac.bat,export PEA APAC,Interface_609,Y,40,N,0145,,N
+SEBLG409@-SIEBEL018,SEBLJ2011ab,sebl2011_pea_exp_ana_apac.bat,export PEA APAC,Interface_610,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2012aa,sebl2012_pea_exp_ana_la.bat,Pea export batch script for la,Interface_611,Y,40,N,0205,,N
+SEBLG409@-SIEBEL018,SEBLJ2012ab,sebl2012_pea_exp_ana_la.bat,Pea export batch script for la,Interface_612,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2013aa,sebl2013_pea_exp_ana_we.bat,Pea export batch script for we,Interface_613,Y,40,N,0220,,N
+SEBLG409@-SIEBEL018,SEBLJ2013ab,sebl2013_pea_exp_ana_we.bat,Pea export batch script for we,Interface_614,Y,60,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2015ua,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan Optima workflow,Interface_615,Y,260,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2016u,sebl2016_tfmwfana_rtsvol.bat,TSP data to staging,Interface_616,Y,100,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2018u,sebl2018_Promo_Acc_Del.bat,Deletion into import hub,Interface_617,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2019u,sebl2019_imp_hub_anaplan.bat,Update satellite,Interface_618,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2101u,sebl2101_ship_add_gtin.bat,shipmentRDS gtin,Interface_619,N,60,N,,,Y
+SEBLG409@-SIEBEL018,SEBLJ2220u,sebl2220_handshake.bat,Hand shake,Interface_620,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2221u,sebl2221_Act_Accept_Del.bat,Activivity accepted delete,Interface_621,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ2222u,sebl2222_snapshot.bat,Snapshots,Interface_622,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5104u,sebl5104_tfm_act_pay_imp.bat,EIM import,Interface_623,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5106u,sebl5106_tfm_act_hdr_upd.bat,EIM Update Doc Header,Interface_624,Y,40,Y,,11/1/2018 20:00,N
+SEBLG409@-SIEBEL018,SEBLJ5108u,sebl5108_tfm_csi_stat_upd.bat,EIM Payment Status Update,Interface_625,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5110u,sebl5110_tfm_ded_upd.bat,EIM import,Interface_626,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5114u,sebl5114_tfm_ap_payments.bat,EIM Payment Status Update,Interface_627,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5122u,sebl5122_tfm_postoi_upd.bat,EIM import post oi,Interface_628,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5128ue,sebl5128_tfm_sca_off_inv.bat,EIM import,Interface_629,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5133u,sebl5133_tfm_cms_off_inv.bat,EIM import,Interface_630,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5138u,sebl5138_tfm_treasury_upd.bat,EIM import treasury,Interface_631,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5304u,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_632,Y,50,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5304v,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_633,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5304w,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_634,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5306u,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_635,Y,50,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5306v,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_636,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5306w,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_637,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5308u,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_638,Y,50,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5308v,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_639,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5308w,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_640,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5318u,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_641,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5318v,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_642,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5318w,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_643,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5318y,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_644,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5320u,sebl5320_tfm_ci_index_upd.bat,EIM import CI Index,Interface_645,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5322u,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_646,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5322v,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_647,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5322w,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_648,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5324u,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_649,Y,46,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5324v,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_650,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5328u,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_651,Y,40,N,,11/1/2018 21:00,N
+SEBLG409@-SIEBEL018,SEBLJ5330u,sebl5330_tfm_fund_adjust.bat,EIM import,Interface_652,Y,40,Y,,11/1/2018 19:15,N
+SEBLG409@-SIEBEL018,SEBLJ5335u,sebl5335_tfm_acc_team.bat,EIM import,Interface_653,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5505u,sebl5505_tfm_merged_sdcprd.bat,EIM Import  products,Interface_654,Y,60,Y,,11/1/2018 13:10,N
+SEBLG409@-SIEBEL018,SEBLJ5507u,sebl5507_tfm_merged_sdc.bat,EIM Import accounts,Interface_655,Y,60,Y,,5/1/2019 14:30,N
+SEBLG409@-SIEBEL018,SEBLJ5707u,sebl5707_tfm_pri_imp.bat,EIM import Pricelist,Interface_656,Y,130,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5715u,sebl5715_tfm_niv_su_upload.bat,EIM import NIV SU,Interface_657,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5717u,sebl5717_tfm_tt_pec_upload.bat,EIM import TT Percentage,Interface_658,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5725u,sebl5725_tfm_rev_var_cost.bat,EIM import,Interface_659,Y,40,N,,11/1/2018 19:40,N
+SEBLG409@-SIEBEL018,SEBLJ5727u,sebl5727_tfm_upload_compl.bat,EIM import,Interface_660,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5727v,sebl5727_tfm_upload_compl.bat,EIM import,Interface_661,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5729u,sebl5729_tfm_pln_prd_upd.bat,EIM import,Interface_662,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5733u,sebl5733_optima_year_end.bat,EIM import Year End Accrual,Interface_663,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5733v,sebl5733_optima_year_end.bat,EIM import Year End Accrual,Interface_664,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5735u,sebl5735_tfm_fund_rate_upd.bat,EIM import,Interface_665,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5735v,sebl5735_tfm_fund_rate_upd.bat,EIM import,Interface_666,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5737u,sebl5737_tfm_reb_agree_upd.bat,EIM import,Interface_667,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5739u,sebl5739_tfm_spk_pack_upd.bat,EIM import,Interface_668,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5743u,sebl5743_tfm_autogtin_rpl.bat,EIM import,Interface_669,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5745u,sebl5745_tfm_del_brdsplit.bat,EIM import,Interface_670,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5750u,sebl5750_tfm_cosmos_lock.bat,EIM import,Interface_671,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5752ue,sebl5752_tfm_sca_rev_oi.bat,EIM import,Interface_672,Y,40,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5765u,sebl5765_tfm_autogtin_wf.bat,EIM import Auto Add GTIN,Interface_673,Y,40,N,,11/1/2018 18:40,N
+SEBLG409@-SIEBEL018,SEBLJ5900u,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_674,Y,40,N,0100,,N
+SEBLG409@-SIEBEL018,SEBLJ5900u,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_675,Y,40,N,1300,,N
+SEBLG409@-SIEBEL018,SEBLJ5900u,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_676,Y,40,N,1900,,N
+SEBLG409@-SIEBEL018,SEBLJ5901u,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_677,Y,40,N,0100,,N
+SEBLG409@-SIEBEL018,SEBLJ5901u,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_678,Y,40,N,1300,,N
+SEBLG409@-SIEBEL018,SEBLJ5901u,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_679,Y,40,N,1900,,N
+SEBLG409@-SIEBEL018,SEBLJ5903u,sebl5903_tfm_wf_adj_mail.bat,Workflow to send E-Mail when Adjsutment is made,Interface_680,Y,40,N,0600,,N
+SEBLG409@-SIEBEL018,SEBLJ5905u,sebl5905_tfm_wf_interflg.bat,Work flow to set offinvoice flag.,Interface_681,Y,40,N,1400,,N
+SEBLG409@-SIEBEL018,SEBLJ5906u,sebl5906_tfm_wf_fundgrp.bat,Workflow to inactivate the fund groups .,Interface_682,Y,40,N,0000,,N
+SEBLG409@-SIEBEL018,SEBLJ5910u,sebl5910_tfm_wf_SVP.bat,workflow for svp automation,Interface_683,N,60,N,,,N
+SEBLG409@-SIEBEL018,SEBLJ5911u,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_684,Y,40,N,0300,,N
+SEBLG409@-SIEBEL018,SEBLJ5911u,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_685,Y,40,N,1430,,N
+SEBLG409@-SIEBEL018,SEBLJ5911u,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_686,Y,40,N,2000,,N
+SEBLG409@-SIEBEL018,SEBLJ5912u,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_687,Y,40,N,0300,,N
+SEBLG409@-SIEBEL018,SEBLJ5912u,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_688,Y,40,N,1430,,N
+SEBLG409@-SIEBEL018,SEBLJ5912u,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_689,Y,40,N,2000,,N
+SEBLG409@-SIEBEL018,SEBLJ5913u,sebl5913_tfm_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_690,Y,40,N,0005,,N
+SEBLG409@-SIEBEL018,SEBLJ5920u,sebl5920_tfm_wf_oneup.bat,Workflow,Interface_691,Y,40,N,0015,,N
+SEBLG409@-SIEBEL018,SEBLJ5921u,sebl5921_tfm_wf_oiexec.bat,Worlkflow to run the OI Exceeded Email  process,Interface_692,Y,40,N,0020,,N
+SEBLG409@-SIEBEL018,SEBLJ5922u,sebl5922_tfm_wf_prmoapprov.bat,Workflow,Interface_693,Y,40,N,0030,,N
+SEBLG409@-SIEBEL018,SEBLJ5923u,sebl5923_rev_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_694,N,60,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ2005bd,sebl2005_s_cx_daily_stats.sh,Shell Script - Gather Stats,Interface_695,N,60,N,0000,,N
+SEBLG409@SDHN5569,SEBLJ2020ua,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_696,N,60,N,0900,,N
+SEBLG409@SDHN5569,SEBLJ2020ub,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_697,N,60,N,0900,,N
+SEBLG409@SDHN5569,SEBLJ2020uc,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_698,N,60,N,1200,,N
+SEBLG409@SDHN5569,SEBLJ2020ud,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_699,N,60,N,1200,,N
+SEBLG409@SDHN5569,SEBLJ2020ue,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_700,N,60,N,1200,,N
+SEBLG409@SDHN5569,SEBLJ2020uf,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_701,N,60,N,1200,,N
+SEBLG409@SDHN5569,SEBLJ2020ug,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_702,N,60,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ2020uh,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_703,N,60,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ2020ui,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_704,N,60,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ2020uj,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_705,N,60,N,1500,,N
+SEBLG409@SDHN5569,SEBLJ2020uk,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_706,N,60,N,1700,,N
+SEBLG409@SDHN5569,SEBLJ2021ua,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_707,N,60,N,1700,,N
+SEBLG409@SDHN5569,SEBLJ2021ub,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_708,N,60,N,2200,,N
+SEBLG409@SDHN5569,SEBLJ2021uc,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_709,N,60,N,2200,,N
+SEBLG409@SDHN5569,SEBLJ2024u,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_710,Y,45,N,,,N
+SEBLG409@SDHN5569,SEBLJ2024uf,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_711,Y,250,N,,,N
+SEBLG409@SDHN5569,SEBLJ2026ux,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_712,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ2026uxf,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_713,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ2100u,sebl2100_ship_add_gtin.sh,Run PL/SQL - Procedure,Interface_714,N,60,N,,,Y
+SEBLG409@SDHN5569,SEBLJ2102u,sebl2102_cfg_model_prod.sh,Run PL/SQL - Procedure,Interface_715,N,60,N,,,Y
+SEBLG409@SDHN5569,SEBLJ31ux,sebl31_tfm_bpt_mat_ref1.sh,Refresh Materialized View,Interface_716,N,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ32ux,sebl32_tfm_bpt_mat_ref2.sh,Refresh Materialized View,Interface_717,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ3303u,sebl3303_dmat_master.sh,Shell Script - DMAT Master,Interface_718,N,60,N,0427,,N
+SEBLG409@SDHN5569,SEBLJ33ux,sebl33_tfm_bpt_mat_ref3.sh,Refresh Materialized View,Interface_719,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ3505u,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_720,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ3505uf,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_721,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ3507u,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract,Interface_722,Y,100,N,,,N
+SEBLG409@SDHN5569,SEBLJ5000ux,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_723,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5000uxf,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_724,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5001ux,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report,Interface_725,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5002ux,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract,Interface_726,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5004u,sebl5004_dmy_gtin_del.sh,Delete dummy GTIN,Interface_727,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5006u,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload,Interface_728,Y,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5007u,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload,Interface_729,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5008u,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract,Interface_730,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5009u,sebl5009_ana_promo_error.sh,Anaplan Promo Error,Interface_731,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5010ua,sebl5010_ana_ship_tot.sh,Ship tot anaplan,Interface_732,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5100u,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_733,Y,60,N,0600,,N
+SEBLG409@SDHN5569,SEBLJ5100v,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_734,Y,60,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ5100w,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_735,Y,60,N,0000,,N
+SEBLG409@SDHN5569,SEBLJ5100wz,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_736,Y,40,N,0100,,N
+SEBLG409@SDHN5569,SEBLJ5101u,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_737,Y,40,N,2200,,N
+SEBLG409@SDHN5569,SEBLJ5101v,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_738,Y,40,N,2200,,N
+SEBLG409@SDHN5569,SEBLJ5102u,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_739,N,60,N,1800,,N
+SEBLG409@SDHN5569,SEBLJ5102v,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_740,N,60,N,1800,,Y
+SEBLG409@SDHN5569,SEBLJ5103u,sebl5103_optima_actuals.sh,PL/SQL - read file,Interface_741,Y,40,Y,1930,11/1/2018 19:45,N
+SEBLG409@SDHN5569,SEBLJ5105u,sebl5105_optima_act_hdr.sh,PL/SQL Update Doc Header,Interface_742,Y,40,Y,,11/1/2018 20:10,N
+SEBLG409@SDHN5569,SEBLJ5107u,sebl5107_optima_cst_inv.sh,PL/SQL - extract file CIB trigger,Interface_743,Y,40,N,1400,,N
+SEBLG409@SDHN5569,SEBLJ5109u,sebl5109_optima_deductions.sh,PL/SQL - read file,Interface_744,Y,40,N,0730,,N
+SEBLG409@SDHN5569,SEBLJ5113u,sebl5113_optima_ap_pay.sh,PL/SQL - extract file CIB trigger,Interface_745,Y,40,N,1430,,N
+SEBLG409@SDHN5569,SEBLJ5118u,sebl5118_optima_add_gtin.sh,PL/SQL - Error report for Auto GTIN,Interface_746,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5121u,sebl5121_optima_post_oi.sh,PL/SQL - extract file email trigger,Interface_747,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5123u,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_748,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5123v,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_749,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5123w,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_750,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5125u,sebl5125_optima_custom_del.sh,PL/SQL - Error report for Custum Delete Process,Interface_751,Y,40,N,0030,,N
+SEBLG409@SDHN5569,SEBLJ5127ue,sebl5127_optima_offinv_scl.sh,Run PL/SQL - Procedure,Interface_752,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5129ue,sebl5129_optima_offscl_ext.sh,PL/SQL - extract file CIB trigger,Interface_753,Y,40,N,0435,,N
+SEBLG409@SDHN5569,SEBLJ5132u,sebl5132_optima_offinv_cms.sh,Run PL/SQL - Procedure,Interface_754,Y,40,N,1500,,N
+SEBLG409@SDHN5569,SEBLJ5140u,sebl5140_optima_treasury.sh,Run PL/SQL - Procedure,Interface_755,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5191u,sebl5191_dqdaily_bus_close.sh,Shell Script - DQ Daily Validation,Interface_756,N,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5192u,sebl5192_dqdaily_ax_start.sh,Shell Script - DQ AX Start,Interface_757,N,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5194u,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_758,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5194v,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_759,Y,40,N,2000,,N
+SEBLG409@SDHN5569,SEBLJ52ux,sebl52_optima_ff_daily.sh,Load file: PL/SQL to load hold tables.,Interface_760,Y,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5300u,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_761,Y,40,N,1200,,N
+SEBLG409@SDHN5569,SEBLJ5300v,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_762,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5300w,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_763,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5300x,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_764,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5300y,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_765,Y,60,N,0500,,N
+SEBLG409@SDHN5569,SEBLJ5302u,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_766,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5302v,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_767,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5302w,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_768,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5303u,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_769,Y,50,N,,,N
+SEBLG409@SDHN5569,SEBLJ5303v,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_770,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5303w,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_771,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5305u,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_772,Y,50,N,,,N
+SEBLG409@SDHN5569,SEBLJ5305v,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_773,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5305w,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_774,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5307u,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_775,Y,50,N,,,N
+SEBLG409@SDHN5569,SEBLJ5307v,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_776,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5307w,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_777,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5317u,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_778,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5317v,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_779,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5317w,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_780,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5317x,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_781,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5319u,sebl5319_optima_ciindxload.sh,PL/SQL - load EIM tables,Interface_782,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5321u,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_783,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5321v,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_784,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5321w,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_785,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5323u,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_786,Y,46,N,,,N
+SEBLG409@SDHN5569,SEBLJ5327u,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_787,Y,40,Y,,11/1/2018 0:10,N
+SEBLG409@SDHN5569,SEBLJ5329u,sebl5329_optima_fund_adjst.sh,PL/SQL - read file,Interface_788,Y,40,Y,1900,11/1/2018 19:15,N
+SEBLG409@SDHN5569,SEBLJ5332u,sebl5332_optima_int_ord.sh,PL/SQL - extract file CIB trigger,Interface_789,Y,40,N,1830,,N
+SEBLG409@SDHN5569,SEBLJ5334u,sebl5334_tfm_acc_team.sh,PL/SQL - load EIM tables,Interface_790,Y,40,N,1600,,N
+SEBLG409@SDHN5569,SEBLJ5338u,sebl5338_optima_error_rep.sh,Send Error Reports,Interface_791,Y,40,N,0000,,N
+SEBLG409@SDHN5569,SEBLJ53ux,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_792,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ53vx,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_793,Y,40,N,0800,,N
+SEBLG409@SDHN5569,SEBLJ54ux,sebl54_tfm_sdc_ax.sh,Send GC to AX after Global SVP completes,Interface_794,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5500u,sebl5500_sdc_view_load1.sh,PL/SQL - load Hold tables for SDC,Interface_795,Y,40,Y,1130,11/1/2018 11:45,N
+SEBLG409@SDHN5569,SEBLJ5501u,sebl5501_sdc_view_load2.sh,PL/SQL - load Hold tables for SDC,Interface_796,Y,40,Y,1130,11/1/2018 11:45,N
+SEBLG409@SDHN5569,SEBLJ5502u,sebl5502_sdc_view_load3.sh,PL/SQL - load Hold tables for SDC,Interface_797,Y,40,Y,1130,11/1/2018 11:45,N
+SEBLG409@SDHN5569,SEBLJ5503u,sebl5503_sdc_view_load4.sh,PL/SQL - load Hold tables for SDC,Interface_798,Y,40,Y,1130,11/1/2018 11:45,N
+SEBLG409@SDHN5569,SEBLJ5504u,sebl5504_optima_prd_sdc.sh,PL/SQL - load EIM tables for products,Interface_799,Y,100,Y,,11/1/2018 11:50,N
+SEBLG409@SDHN5569,SEBLJ5506u,sebl5506_optima_acc_sdc.sh,PL/SQL - load EIM tables for accounts,Interface_800,Y,60,Y,,11/1/2018 13:50,N
+SEBLG409@SDHN5569,SEBLJ5508u,sebl5508_optima_err_sdc.sh,PL/SQL - Error report for SDC  Process,Interface_801,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5512u,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_802,Y,45,Y,,11/1/2018 22:00,N
+SEBLG409@SDHN5569,SEBLJ55ux,sebl55_tfm_ax_revcost.sh,Recieve GC from AX to RevCost job,Interface_803,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ56ux,sebl56_tfm_fundtrnsfr_ax.sh,Send GC from TX - Fund Transfer to AX,Interface_804,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5706u,sebl5706_optima_price_list.sh,PL/SQL - load EIM tables,Interface_805,Y,150,N,1900,,N
+SEBLG409@SDHN5569,SEBLJ5708u,sebl5708_optima_base_svp.sh,PL/SQL - load Hold  tables,Interface_806,Y,50,N,,,N
+SEBLG409@SDHN5569,SEBLJ5714u,sebl5714_optima_niv_su.sh,PL/SQL - load EIM tables,Interface_807,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5716u,sebl5716_optima_tt_perc.sh,PL/SQL - load EIM tables,Interface_808,Y,40,N,1400,,N
+SEBLG409@SDHN5569,SEBLJ5718u,sebl5718_optima_ps_ext_prd.sh,PL/SQL - extract file CIB trigger,Interface_809,Y,40,N,1600,,N
+SEBLG409@SDHN5569,SEBLJ5722u,sebl5722_optima_cust_acq.sh,Run PL/SQL - Procedure,Interface_810,Y,50,Y,,11/1/2018 15:10,N
+SEBLG409@SDHN5569,SEBLJ5724u,sebl5724_optima_revar_cost.sh,Run PL/SQL - Procedure,Interface_811,Y,40,Y,,11/1/2018 21:40,N
+SEBLG409@SDHN5569,SEBLJ5726u,sebl5726_optima_compl_upd.sh,PL SQL Process,Interface_812,Y,40,N,1100,,N
+SEBLG409@SDHN5569,SEBLJ5726v,sebl5726_optima_compl_upd.sh,PL SQL Process,Interface_813,Y,40,N,1230,,N
+SEBLG409@SDHN5569,SEBLJ5728u,sebl5728_optima_plan_upd.sh,PL SQL Process,Interface_814,Y,40,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ5732u,sebl5732_optima_yr_endupd.sh,PL/SQL - load EIM tables,Interface_815,Y,40,N,1130,,N
+SEBLG409@SDHN5569,SEBLJ5732v,sebl5732_optima_yr_endupd.sh,PL/SQL - load EIM tables,Interface_816,Y,40,N,1300,,N
+SEBLG409@SDHN5569,SEBLJ5734u,sebl5734_optima_fund_rate.sh,PL SQL Process,Interface_817,Y,40,N,0200,,N
+SEBLG409@SDHN5569,SEBLJ5734v,sebl5734_optima_fund_rate.sh,PL SQL Process,Interface_818,Y,40,N,0000,,N
+SEBLG409@SDHN5569,SEBLJ5736u,sebl5736_optima_reb_agree.sh,PL/SQL - load EIM tables,Interface_819,Y,40,N,1630,,N
+SEBLG409@SDHN5569,SEBLJ5738u,sebl5738_optima_spk_sid.sh,PL/SQL - SOA table extract file,Interface_820,Y,40,N,1630,,N
+SEBLG409@SDHN5569,SEBLJ5744u,sebl5744_optima_del_bsplit.sh,PL/SQL - load EIM tables,Interface_821,Y,40,N,1800,,N
+SEBLG409@SDHN5569,SEBLJ5746u,sebl5746_optima_prd_denorm.sh,PL/SQL -Load EIM tables,Interface_822,Y,50,Y,,11/1/2018 15:10,N
+SEBLG409@SDHN5569,SEBLJ5749u,sebl5749_opt_cos_lock_disc.sh,Run PL/SQL - Procedure,Interface_823,Y,40,N,1100,,N
+SEBLG409@SDHN5569,SEBLJ5751ue,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_824,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5751uf,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_825,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5759e,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_826,Y,75,N,,,N
+SEBLG409@SDHN5569,SEBLJ5759f,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_827,Y,90,N,,,N
+SEBLG409@SDHN5569,SEBLJ5760d,sebl5760_tsp_mass_upd.sh,Run PL/SQL - Procedure,Interface_828,Y,40,N,0400,,N
+SEBLG409@SDHN5569,SEBLJ5761f,sebl5761_sdc_tsp_error.sh,Run PL/SQL - Procedure,Interface_829,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5762d,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_830,Y,40,N,,,N
+SEBLG409@SDHN5569,SEBLJ5762f,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_831,Y,40,N,2200,,N
+SEBLG409@SDHN5569,SEBLJ5763d,sebl5763_tsp_complete_agg.sh,Run PL/SQL - Procedure,Interface_832,Y,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5764u,sebl5764_tfm_autogtin.sh,Run PL/SQL - Procedure,Interface_833,Y,60,Y,,11/1/2018 20:30,N
+SEBLG409@SDHN5569,SEBLJ5769u,sebl5769_tsp_snapshot.sh,Run PL/SQL - Procedure,Interface_834,Y,40,N,1130,,N
+SEBLG409@SDHN5569,SEBLJ57ux,sebl57_optima_basevolume.sh,PL/SQL - load EIM tables,Interface_835,Y,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5997u,sebl5997_sode.sh,Shell Script - Load file to table ADW,Interface_836,N,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5998u,sebl5998_sode.sh,Shell Script - Load file to table CDW,Interface_837,N,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ5999u,sebl5999_sode_val.sh,Shell Script - SODE DQ Validation,Interface_838,N,60,N,0600,,N
+SEBLG409@SDHN5569,SEBLJ6100u,sebl6100_frt_init_load.sh,PL/SQL - Fund Reconciliation Report,Interface_839,N,60,N,,,N
+SEBLG409@SDHN5569,SEBLJ6205u,sebl6205_tfm_real_time.sh,Shell Script - Real time TSP jobs,Interface_840,N,60,N,0500,,N
+SEBLG409@SDHN5569,SEBLJ6206u,sebl6206_tfm_table_reorg.sh,Shell Script - Table Reorg,Interface_841,Y,40,N,1400,,N
+SEBLG409@SDHN5569,SEBLJ6206v,sebl6206_tfm_table_reorg.sh,Shell Script - Table Reorg,Interface_842,Y,170,N,1800,,N
+SEBLG409@SDHN5569,SEBLJ6250u,sebl6250_tfm_clean_arch_tab.sh,Shell Script - Cleaning Archive Tables,Interface_843,Y,130,N,2300,,N
+SEBLG409@SDHN5569,SEBLJ7707u,sebl7707_auto_archive.sh,Shell Script - Reduce Unix prod box disk spa,Interface_844,N,60,N,0530,,N
+SEBLG409@SDHN5569,SEBLJ93ux,sebl93_dqdaily_eod.sh,Shell Script - DQ Daily EOD Validation,Interface_845,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ1011ca,sebl1011_export_user.bat,Users export,Interface_846,N,60,N,1800,,Y
+SEBLG410@-SIEBEL012,SEBLJ1012ca,sebl1012_import_user_sat.bat,Users sat import,Interface_847,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ1013ca,sebl1013_snapshot_user.bat,Users snapshot,Interface_848,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ1014ca,sebl1014_user_access.bat,Users access,Interface_849,N,60,N,1900,,Y
+SEBLG410@-SIEBEL012,SEBLJ2001ca,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_850,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001caf,sebl2001_imp_opt_anaplan.bat,Customer Hierarchy,Interface_851,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cb,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_852,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cbf,sebl2001_imp_opt_anaplan.bat,Customer Attributes,Interface_853,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cc,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_854,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001ccf,sebl2001_imp_opt_anaplan.bat,Product Hierarchy,Interface_855,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cd,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_856,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cdf,sebl2001_imp_opt_anaplan.bat,Product Attributes,Interface_857,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001ce,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_858,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cef,sebl2001_imp_opt_anaplan.bat,Fund Details,Interface_859,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cff,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_860,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cfz,sebl2001_imp_opt_anaplan.bat,Fund Products,Interface_861,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cg,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_862,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cgf,sebl2001_imp_opt_anaplan.bat,Fund Adjustment/Transfers,Interface_863,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001ch,sebl2001_imp_opt_anaplan.bat,Sufficiency Report,Interface_864,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001ci,sebl2001_imp_opt_anaplan.bat,Promotion SID,Interface_865,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cj,sebl2001_imp_opt_anaplan.bat,Promo Volume,Interface_866,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001ck,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_867,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001ckf,sebl2001_imp_opt_anaplan.bat,Optima Actual Payments,Interface_868,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cl,sebl2001_imp_opt_anaplan.bat,RVC,Interface_869,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001clf,sebl2001_imp_opt_anaplan.bat,RVC,Interface_870,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cm,sebl2001_imp_opt_anaplan.bat,Shipment Volume,Interface_871,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cn,sebl2001_imp_opt_anaplan.bat,Sysdate,Interface_872,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001co,sebl2001_imp_opt_anaplan.bat,Users import,Interface_873,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2001cp,sebl2001_imp_opt_anaplan.bat,Promo Error Report,Interface_874,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2002ca,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite BR,Interface_875,Y,60,N,0500,,N
+SEBLG410@-SIEBEL012,SEBLJ2003ca,sebl2003_ana_ffm_lock.bat,FFM lock BR,Interface_876,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2004c,sebl2004_suff_hubtosat.bat,Sufficiency Satellite,Interface_877,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2005ca,sebl2005_exp_anaplan_opt.bat,download from anaplan,Interface_878,Y,40,N,2000,,N
+SEBLG410@-SIEBEL012,SEBLJ2005cb,sebl2005_exp_anaplan_opt.bat,SVP download,Interface_879,Y,40,N,0830,,N
+SEBLG410@-SIEBEL012,SEBLJ2015ca,sebl2015_tfm_wf_ana_rcsv.bat,Read Anaplan file via workflow,Interface_880,Y,40,N,,,Y
+SEBLG410@-SIEBEL012,SEBLJ2016ca,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP data to staging,Interface_881,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2017ca,sebl2017_ana_usr_security.bat,Upload users to optima,Interface_882,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2018ca,sebl2018_Promo_Acc_Del.bat,Deletion into import hub,Interface_883,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2019ca,sebl2019_imp_hub_anaplan.bat,Update satellite,Interface_884,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2101b,sebl2101_ship_add_gtin.bat,shipmentRDS gtin,Interface_885,N,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2220ca,sebl2220_handshake.bat,Hand shake,Interface_886,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2221c,sebl2221_Act_Accept_Del.bat,Activivity accepted delete,Interface_887,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ2222ca,sebl2222_snapshot.bat,Snapshots,Interface_888,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5104c,sebl5104_tfm_act_pay_imp.bat,EIM import,Interface_889,Y,40,N,,11/1/2018 23:50,N
+SEBLG410@-SIEBEL012,SEBLJ5106c,sebl5106_tfm_act_hdr_upd.bat,EIM Update Doc Header,Interface_890,Y,40,N,,11/1/2018 23:50,N
+SEBLG410@-SIEBEL012,SEBLJ5108c,sebl5108_tfm_csi_stat_upd.bat,EIM Payment Status Update,Interface_891,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5110c,sebl5110_tfm_ded_upd.bat,EIM import,Interface_892,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5114b,sebl5114_tfm_ap_payments.bat,EIM Payment Status Update,Interface_893,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5114f,sebl5114_tfm_ap_payments.bat,EIM Payment Status Update,Interface_894,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5122c,sebl5122_tfm_postoi_upd.bat,EIM import post oi,Interface_895,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5128c,sebl5128_tfm_sca_off_inv.bat,EIM import,Interface_896,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5138b,sebl5138_tfm_treasury_upd.bat,EIM import,Interface_897,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5304d,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_898,Y,50,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5304e,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_899,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5304f,sebl5304_tfm_shp_init_upd.bat,EIM update Shipment table,Interface_900,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5306d,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_901,Y,50,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5306e,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_902,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5306f,sebl5306_tfm_shp_fund_imp.bat,EIM import,Interface_903,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5308d,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_904,Y,50,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5308e,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_905,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5308f,sebl5308_tfm_shp_fund_upd.bat,EIM update,Interface_906,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5318d,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_907,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5318e,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_908,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5318f,sebl5318_tfm_chld_upd.bat,EIM import Channel Accrual,Interface_909,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5320d,sebl5320_tfm_ci_index_upd.bat,EIM import CI Index,Interface_910,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5322d,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_911,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5322e,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_912,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5322f,sebl5322_tfm_mpa_upd.bat,EIM import MPA,Interface_913,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5324e,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_914,Y,46,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5324g,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_915,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5324h,sebl5324_tfm_fnd_frcst.bat,EIM import Fund Forecast,Interface_916,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5326d,sebl5326_tfm_alt_bdf.bat,EIM import Alt BDF,Interface_917,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5328b,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_918,Y,40,N,,11/1/2018 1:20,N
+SEBLG410@-SIEBEL012,SEBLJ5328e,sebl5328_tfm_fund_transfer.bat,EIM import,Interface_919,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5330b,sebl5330_tfm_fund_adjust.bat,EIM import,Interface_920,Y,40,N,,11/1/2018 1:15,N
+SEBLG410@-SIEBEL012,SEBLJ5335b,sebl5335_tfm_acc_team.bat,EIM import,Interface_921,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5505b,sebl5505_tfm_merged_sdcprd.bat,EIM Import  products,Interface_922,Y,40,N,,11/1/2018 23:59,N
+SEBLG410@-SIEBEL012,SEBLJ5507b,sebl5507_tfm_merged_sdc.bat,EIM Import accounts,Interface_923,Y,60,N,,11/1/2018 0:25,N
+SEBLG410@-SIEBEL012,SEBLJ5705b,sebl5705_tfm_nsu_mt_imp.bat,EIM import Nos MT,Interface_924,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5707b,sebl5707_tfm_pri_imp.bat,EIM import Pricelist,Interface_925,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5713b,sebl5713_tfm_altbdf_upload.bat,EIM import,Interface_926,Y,60,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5715b,sebl5715_tfm_niv_su_upload.bat,EIM import,Interface_927,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5717b,sebl5717_tfm_tt_pec_upload.bat,EIM import,Interface_928,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5725b,sebl5725_tfm_rev_var_cost.bat,EIM import,Interface_929,Y,40,N,,11/1/2018 6:50,N
+SEBLG410@-SIEBEL012,SEBLJ5727b,sebl5727_tfm_upload_compl.bat,EIM import,Interface_930,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5729b,sebl5729_tfm_pln_prd_upd.bat,EIM import,Interface_931,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5731b,sebl5731_tfm_alt_bdf_pop.bat,EIM import,Interface_932,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5733b,sebl5733_optima_year_end.bat,EIM import Year End Accrual,Interface_933,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5735b,sebl5735_tfm_fund_rate_upd.bat,EIM import,Interface_934,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5745b,sebl5745_tfm_del_brdsplit.bat,EIM import,Interface_935,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5752c,sebl5752_tfm_sca_rev_oi.bat,EIM import,Interface_936,Y,40,N,,,N
+SEBLG410@-SIEBEL012,SEBLJ5765b,sebl5765_tfm_autogtin_wf.bat,EIM import Auto Add GTIN,Interface_937,Y,40,N,,11/1/2018 5:00,N
+SEBLG410@-SIEBEL012,SEBLJ5900b,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_938,Y,40,N,0100,,N
+SEBLG410@-SIEBEL012,SEBLJ5900b,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_939,Y,40,N,1300,,N
+SEBLG410@-SIEBEL012,SEBLJ5900b,sebl5900_tfm_wf_accrflg.bat,Workflow to set accrual flag for Funded Accounts,Interface_940,Y,40,N,1900,,N
+SEBLG410@-SIEBEL012,SEBLJ5901b,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_941,Y,40,N,0100,,N
+SEBLG410@-SIEBEL012,SEBLJ5901b,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_942,Y,40,N,1300,,N
+SEBLG410@-SIEBEL012,SEBLJ5901b,sebl5901_tfm_wf_pricelist.bat,Workflow to set Price List for Accounts,Interface_943,Y,40,N,1900,,N
+SEBLG410@-SIEBEL012,SEBLJ5903b,sebl5903_tfm_wf_adj_mail.bat,Workflow to send E-Mail when Adjsutment is made,Interface_944,Y,40,N,0600,,N
+SEBLG410@-SIEBEL012,SEBLJ5905b,sebl5905_tfm_wf_interflg.bat,EIM import,Interface_945,Y,40,N,2200,,N
+SEBLG410@-SIEBEL012,SEBLJ5906b,sebl5906_tfm_wf_fundgrp.bat,Workflow to inactivate the fund groups .,Interface_946,Y,40,N,0000,,N
+SEBLG410@-SIEBEL012,SEBLJ5911b,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_947,Y,40,N,0300,,N
+SEBLG410@-SIEBEL012,SEBLJ5911b,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_948,Y,40,N,1430,,N
+SEBLG410@-SIEBEL012,SEBLJ5911b,sebl5911_tfm_pmnts_email.bat,workflow for optima payments email process,Interface_949,Y,40,N,2000,,N
+SEBLG410@-SIEBEL012,SEBLJ5912b,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_950,Y,40,N,0300,,N
+SEBLG410@-SIEBEL012,SEBLJ5912b,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_951,Y,40,N,1430,,N
+SEBLG410@-SIEBEL012,SEBLJ5912b,sebl5912_tfm_promo_email.bat,workflow to run the promotion email process,Interface_952,Y,40,N,2000,,N
+SEBLG410@-SIEBEL012,SEBLJ5913b,sebl5913_tfm_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_953,Y,40,N,0005,,N
+SEBLG410@-SIEBEL012,SEBLJ5920b,sebl5920_tfm_wf_oneup.bat,EIM import,Interface_954,Y,40,N,0015,,N
+SEBLG410@-SIEBEL012,SEBLJ5921b,sebl5921_tfm_wf_oiexec.bat,EIM import,Interface_955,Y,40,N,0020,,N
+SEBLG410@-SIEBEL012,SEBLJ5922b,sebl5922_tfm_wf_prmoapprov.bat,EIM import,Interface_956,Y,40,N,0030,,N
+SEBLG410@-SIEBEL012,SEBLJ5923b,sebl5923_rev_promo_notifi.bat,Workflow to run the Notification  Email Process,Interface_957,N,60,N,1800,,N
+SEBLG410@SDHN5569,SEBLJ1111b,sebl1111_optima1up_extract.sh,Extract OneUp report,Interface_958,N,60,N,0100,,N
+SEBLG410@SDHN5569,SEBLJ2005bxv,sebl2005_s_cx_daily_stats.sh,Shell Script - Gather Stats,Interface_959,N,60,N,0700,,N
+SEBLG410@SDHN5569,SEBLJ2020bb,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_960,N,60,N,1100,,N
+SEBLG410@SDHN5569,SEBLJ2020bc,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_961,N,60,N,1100,,N
+SEBLG410@SDHN5569,SEBLJ2020bd,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_962,N,60,N,1100,,N
+SEBLG410@SDHN5569,SEBLJ2020be,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_963,N,60,N,1100,,N
+SEBLG410@SDHN5569,SEBLJ2020bf,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_964,N,60,N,1600,,N
+SEBLG410@SDHN5569,SEBLJ2020bf,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_965,N,60,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ2020bg,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_966,N,60,N,1600,,N
+SEBLG410@SDHN5569,SEBLJ2020bg,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_967,N,60,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ2020bh,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_968,N,60,N,2300,,N
+SEBLG410@SDHN5569,SEBLJ2020bi,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_969,N,60,N,2300,,N
+SEBLG410@SDHN5569,SEBLJ2020bj,sebl2020_daily_stats.sh,Shell Script - Gather Stats,Interface_970,N,60,N,2300,,N
+SEBLG410@SDHN5569,SEBLJ2021ba,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_971,N,60,N,1000,,N
+SEBLG410@SDHN5569,SEBLJ2021bb,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_972,N,60,N,1700,,N
+SEBLG410@SDHN5569,SEBLJ2021bc,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_973,N,60,N,1700,,N
+SEBLG410@SDHN5569,SEBLJ2021bd,sebl2021_weekly_stats.sh,Shell Script - Gather Stats,Interface_974,N,60,N,1900,,N
+SEBLG410@SDHN5569,SEBLJ2022ba,sebl2022_weekdays_stats.sh,Shell Script - Gather Stats,Interface_975,N,60,N,0200,,N
+SEBLG410@SDHN5569,SEBLJ2022bb,sebl2022_weekdays_stats.sh,Shell Script - Gather Stats,Interface_976,N,60,N,0200,,N
+SEBLG410@SDHN5569,SEBLJ2024ca,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_977,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ2024caf,sebl2024_anapln_accprd_sync.sh,Anaplan Master data,Interface_978,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ2026cfx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_979,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ2026cx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds data,Interface_980,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ2100b,sebl2100_ship_add_gtin.sh,Run PL/SQL - Procedure,Interface_981,N,60,N,,,Y
+SEBLG410@SDHN5569,SEBLJ2102b,sebl2102_cfg_model_prod.sh,Run PL/SQL - Procedure,Interface_982,N,60,N,,,Y
+SEBLG410@SDHN5569,SEBLJ2222b,sebl2222_send_oneup_report.sh,Send OneUp report to TPMS,Interface_983,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ23dx,sebl23_shipto_accruals.sh,Load file: PL/SQL to load hold tables,Interface_984,Y,40,N,1400,,N
+SEBLG410@SDHN5569,SEBLJ31bx,sebl31_tfm_bpt_mat_ref1.sh,Refresh Materialized View,Interface_985,N,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ32bx,sebl32_tfm_bpt_mat_ref2.sh,Refresh Materialized View,Interface_986,N,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ3303d,sebl3303_dmat_master.sh,Shell Script - DMAT Master,Interface_987,N,60,N,0429,,Y
+SEBLG410@SDHN5569,SEBLJ33bx,sebl33_tfm_bpt_mat_ref3.sh,Refresh Materialized View,Interface_988,N,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ3505ca,sebl3505_anaplan_pay_ext.sh,Anaplan Payment Extract,Interface_989,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ3505caf,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract,Interface_990,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ3507ca,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract,Interface_991,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5000cfx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_992,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5000cx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract,Interface_993,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5001cx,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report,Interface_994,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ5002cx,sebl5002_ana_ship_sum_cu.sh,Anaplan Volume Extract,Interface_995,Y,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ5004ca,sebl5004_dmy_gtin_del.sh,Delete dummy GTIN,Interface_996,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5006ca,sebl5006_anapln_mass_upld.sh,Anpln Mass Prd Plan Vol Upd,Interface_997,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5007ca,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan Upload,Interface_998,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5008ca,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract,Interface_999,Y,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ5009ca,sebl5009_ana_promo_error.sh,Promo Error,Interface_1000,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5010ca,sebl5010_ana_ship_tot.sh,Ship tot anaplan,Interface_1001,Y,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ5100e,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_1002,Y,40,N,1800,,N
+SEBLG410@SDHN5569,SEBLJ5100f,sebl5100_optima_sid_io.sh,PL/SQL - extract file CIB trigger,Interface_1003,Y,40,N,0600,,N
+SEBLG410@SDHN5569,SEBLJ5101c,sebl5101_optima_sid_ivc.sh,PL/SQL - extract file CIB trigger,Interface_1004,Y,40,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ5102g,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_1005,N,60,N,1730,,Y
+SEBLG410@SDHN5569,SEBLJ5102h,sebl5102_optima_ivc_earn.sh,PL/SQL - extract file CIB trigger,Interface_1006,N,60,N,1730,,N
+SEBLG410@SDHN5569,SEBLJ5103c,sebl5103_optima_actuals.sh,PL/SQL - read file,Interface_1007,Y,40,N,2330,11/1/2018 23:45,N
+SEBLG410@SDHN5569,SEBLJ5105c,sebl5105_optima_act_hdr.sh,PL/SQL Update Doc Header,Interface_1008,Y,40,N,,11/1/2018 23:50,N
+SEBLG410@SDHN5569,SEBLJ5107c,sebl5107_optima_cst_inv.sh,PL/SQL - extract file CIB trigger,Interface_1009,Y,40,N,2000,,N
+SEBLG410@SDHN5569,SEBLJ5109c,sebl5109_optima_deductions.sh,PL/SQL - read file,Interface_1010,Y,40,N,1300,,N
+SEBLG410@SDHN5569,SEBLJ5113b,sebl5113_optima_ap_pay.sh,PL/SQL - extract file CIB trigger,Interface_1011,Y,40,N,1230,,N
+SEBLG410@SDHN5569,SEBLJ5113f,sebl5113_optima_ap_pay.sh,PL/SQL - extract file CIB trigger,Interface_1012,Y,40,N,1815,,N
+SEBLG410@SDHN5569,SEBLJ5118b,sebl5118_optima_add_gtin.sh,PL/SQL - Error report for Auto GTIN,Interface_1013,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5119b,sebl5119_optima_SVP_global.sh,Run PL/SQL - Procedure,Interface_1014,Y,40,N,0410,,N
+SEBLG410@SDHN5569,SEBLJ5121c,sebl5121_optima_post_oi.sh,PL/SQL - extract file email trigger,Interface_1015,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5123d,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_1016,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5123e,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_1017,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5123f,sebl5123_optima_acc_cmp.sh,PL/SQL - extract file email trigger,Interface_1018,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5125b,sebl5125_optima_custom_del.sh,PL/SQL - Error report for Custum Delete Process,Interface_1019,Y,40,N,0700,,N
+SEBLG410@SDHN5569,SEBLJ5127c,sebl5127_optima_offinv_scl.sh,Run PL/SQL - Procedure,Interface_1020,Y,40,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ5129c,sebl5129_optima_offscl_ext.sh,PL/SQL - extract file CIB trigger,Interface_1021,Y,40,N,0435,,N
+SEBLG410@SDHN5569,SEBLJ5140b,sebl5140_optima_treasury.sh,Run PL/SQL - Procedur,Interface_1022,Y,40,N,0715,,N
+SEBLG410@SDHN5569,SEBLJ5191b,sebl5191_dqdaily_bus_close.sh,Shell Script - DQ Daily,Interface_1023,N,60,N,2100,,N
+SEBLG410@SDHN5569,SEBLJ5192b,sebl5192_dqdaily_ax_start.sh,Shell Script - DQ AX Start,Interface_1024,N,60,N,0200,,N
+SEBLG410@SDHN5569,SEBLJ5194b,sebl5194_dqweekly_eod.sh,Shell Script - DQ Weekly EOD Validation,Interface_1025,Y,60,N,2300,,N
+SEBLG410@SDHN5569,SEBLJ5300d,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_1026,Y,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ5300e,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_1027,Y,40,N,1900,,N
+SEBLG410@SDHN5569,SEBLJ5300f,sebl5300_optima_shipmaster.sh,PL/SQL -To load all shipment master hold tables,Interface_1028,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5302d,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_1029,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5302e,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_1030,Y,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ5302f,sebl5302_optima_merge_load.sh,PL/SQL -To load all shipment hold tables.,Interface_1031,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5303d,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_1032,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ5303e,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_1033,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5303f,sebl5303_optima_fundgnload.sh,Import EIM tables PL/SQL-Fund Gen,Interface_1034,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5305d,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_1035,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ5305e,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_1036,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5305f,sebl5305_optima_fundgncalc.sh,Update EIM MDF: PL/SQL,Interface_1037,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5307d,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_1038,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ5307e,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_1039,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5307f,sebl5307_optima_fundgnupd.sh,Cleanup shipments: PL/SQL,Interface_1040,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5317d,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_1041,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5317e,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_1042,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5317f,sebl5317_optima_child_upd.sh,PL/SQL - Load EIM tables,Interface_1043,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5319d,sebl5319_optima_ciindxload.sh,PL/SQL - load EIM tables,Interface_1044,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5321d,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_1045,Y,50,N,,,N
+SEBLG410@SDHN5569,SEBLJ5321e,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_1046,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5321f,sebl5321_optima_mpa_load.sh,PL/SQL - load MPA EIM tables,Interface_1047,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5323e,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_1048,Y,46,N,,,N
+SEBLG410@SDHN5569,SEBLJ5323g,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_1049,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5323h,sebl5323_optima_frcst_load.sh,PL/SQL - load EIM tables,Interface_1050,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5325d,sebl5325_optima_altbdfload.sh,PL/SQL - load EIM tables-Alt BDF,Interface_1051,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5327b,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_1052,Y,40,N,,11/1/2018 1:20,N
+SEBLG410@SDHN5569,SEBLJ5327e,sebl5327_optima_fund_trans.sh,PL/SQL - read file,Interface_1053,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5329b,sebl5329_optima_fund_adjst.sh,PL/SQL - read file,Interface_1054,Y,40,N,0100,11/1/2018 1:15,N
+SEBLG410@SDHN5569,SEBLJ5332c,sebl5332_optima_int_ord.sh,PL/SQL - extract file CIB trigger,Interface_1055,Y,40,N,0000,,N
+SEBLG410@SDHN5569,SEBLJ5334b,sebl5334_tfm_acc_team.sh,PL/SQL - load EIM tables,Interface_1056,Y,40,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ5338c,sebl5338_optima_error_rep.sh,Send Error Reports,Interface_1057,Y,40,N,0600,,N
+SEBLG410@SDHN5569,SEBLJ53dx,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_1058,Y,40,N,1200,,N
+SEBLG410@SDHN5569,SEBLJ53ex,sebl53_optima_ship_load.sh,Load file: PL/SQL to load hold tables.,Interface_1059,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ54bx,sebl54_tfm_sdc_ax.sh,Send GC to AX after SDC completes,Interface_1060,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5500b,sebl5500_sdc_view_load1.sh,PL/SQL - load Hold tables for SDC,Interface_1061,Y,40,N,2300,11/1/2018 23:15,N
+SEBLG410@SDHN5569,SEBLJ5501b,sebl5501_sdc_view_load2.sh,PL/SQL - load Hold tables for SDC,Interface_1062,Y,40,N,2300,11/1/2018 23:15,N
+SEBLG410@SDHN5569,SEBLJ5502b,sebl5502_sdc_view_load3.sh,PL/SQL - load Hold tables for SDC,Interface_1063,Y,40,N,2300,11/1/2018 23:15,N
+SEBLG410@SDHN5569,SEBLJ5503b,sebl5503_sdc_view_load4.sh,PL/SQL - load Hold tables for SDC,Interface_1064,Y,40,N,2300,11/1/2018 23:15,N
+SEBLG410@SDHN5569,SEBLJ5504b,sebl5504_optima_prd_sdc.sh,PL/SQL - load EIM tables for products,Interface_1065,Y,60,N,,11/1/2018 23:25,N
+SEBLG410@SDHN5569,SEBLJ5506b,sebl5506_optima_acc_sdc.sh,PL/SQL - load EIM tables for accounts,Interface_1066,Y,40,N,,11/1/2018 0:15,N
+SEBLG410@SDHN5569,SEBLJ5508b,sebl5508_optima_err_sdc.sh,PL/SQL - Error report for SDC  Process,Interface_1067,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5512c,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_1068,Y,60,N,,11/1/2018 5:00,N
+SEBLG410@SDHN5569,SEBLJ5512d,sebl5512_optima_promo_cost.sh,Run PL/SQL - Procedure,Interface_1069,Y,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ5544b,sebl5544_optima_shipto.sh,Run PL/SQL - Procedure,Interface_1070,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5545b,sebl5545_optima_cib_shipto.sh,PL/SQL -  CIB trigger,Interface_1071,Y,40,N,0455,,N
+SEBLG410@SDHN5569,SEBLJ56bx,sebl56_tfm_fundtrnsfr_ax.sh,Send GC from TX - Fund Transfer to AX,Interface_1072,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5704b,sebl5704_optima_nos_mt.sh,PL/SQL - load EIM tables,Interface_1073,Y,40,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ5706b,sebl5706_optima_price_list.sh,PL/SQL - load EIM tables,Interface_1074,Y,40,N,0100,,N
+SEBLG410@SDHN5569,SEBLJ5708b,sebl5708_optima_base_svp.sh,PL/SQL - load Hold  tables,Interface_1075,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5712b,sebl5712_optima_bdf_upload.sh,Run PL/SQL - Procedure,Interface_1076,Y,40,N,1800,,N
+SEBLG410@SDHN5569,SEBLJ5714b,sebl5714_optima_niv_su.sh,Run PL/SQL - Procedure,Interface_1077,Y,40,N,0100,,N
+SEBLG410@SDHN5569,SEBLJ5716b,sebl5716_optima_tt_perc.sh,Run PL/SQL - Procedure,Interface_1078,Y,40,N,1900,,N
+SEBLG410@SDHN5569,SEBLJ5722b,sebl5722_optima_cust_acq.sh,Run PL/SQL - Procedure,Interface_1079,Y,40,N,,11/1/2018 1:15,N
+SEBLG410@SDHN5569,SEBLJ5724b,sebl5724_optima_revar_cost.sh,Run PL/SQL - Procedure,Interface_1080,Y,40,N,0630,11/1/2018 6:45,N
+SEBLG410@SDHN5569,SEBLJ5726b,sebl5726_optima_compl_upd.sh,PL SQL Process,Interface_1081,Y,40,N,2015,,N
+SEBLG410@SDHN5569,SEBLJ5728b,sebl5728_optima_plan_upd.sh,Run PL/SQL - Procedure,Interface_1082,Y,40,N,1830,,N
+SEBLG410@SDHN5569,SEBLJ5730b,sebl5730_optima_bdf_popupd.sh,Run PL/SQL - Procedure,Interface_1083,Y,40,N,1930,,N
+SEBLG410@SDHN5569,SEBLJ5732b,sebl5732_optima_yr_endupd.sh,PL/SQL - load EIM tables,Interface_1084,Y,40,N,1945,,N
+SEBLG410@SDHN5569,SEBLJ5734b,sebl5734_optima_fund_rate.sh,Run PL/SQL - Procedure,Interface_1085,Y,40,N,0500,,N
+SEBLG410@SDHN5569,SEBLJ5744b,sebl5744_optima_del_bsplit.sh,PL/SQL - load EIM tables,Interface_1086,Y,40,N,0000,,N
+SEBLG410@SDHN5569,SEBLJ5746b,sebl5746_optima_prd_denorm.sh,PL/SQL -Load EIM tables,Interface_1087,Y,40,N,,11/1/2018 1:15,N
+SEBLG410@SDHN5569,SEBLJ5748c,sebl5748_optima_bd_trans.sh,Budget transfer interface,Interface_1088,Y,40,N,0415,,N
+SEBLG410@SDHN5569,SEBLJ5751c,sebl5751_optima_rev_oi_scl.sh,Send revised OI discounts to GPPDB,Interface_1089,Y,40,N,2200,,N
+SEBLG410@SDHN5569,SEBLJ5759c,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_1090,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5759d,sebl5759_ship_tsp.sh,Run PL/SQL - Procedure,Interface_1091,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5760b,sebl5760_tsp_mass_upd.sh,Run PL/SQL - Procedure,Interface_1092,Y,40,N,0410,,N
+SEBLG410@SDHN5569,SEBLJ5761d,sebl5761_sdc_tsp_error.sh,Run PL/SQL - Procedure,Interface_1093,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5762c,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_1094,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5762d,sebl5762_tsp_error.sh,Run PL/SQL - Procedure,Interface_1095,Y,40,N,0430,,N
+SEBLG410@SDHN5569,SEBLJ5763b,sebl5763_tsp_complete_agg.sh,Run PL/SQL - Procedure,Interface_1096,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ5764b,sebl5764_tfm_autogtin.sh,Run PL/SQL - Procedure,Interface_1097,Y,40,N,,11/1/2018 4:30,N
+SEBLG410@SDHN5569,SEBLJ5769b,sebl5769_tsp_snapshot.sh,Run PL/SQL - Procedure,Interface_1098,Y,40,N,1800,,N
+SEBLG410@SDHN5569,SEBLJ57bx,sebl57_optima_basevolume.sh,PL/SQL - load EIM tables,Interface_1099,Y,40,N,,,N
+SEBLG410@SDHN5569,SEBLJ6100b,sebl6100_frt_init_load.sh,PL/SQL - Fund Reconciliation Report,Interface_1100,N,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ6205b,sebl6205_tfm_real_time.sh,Shell Script - Real time TSP jobs,Interface_1101,N,60,N,0500,,N
+SEBLG410@SDHN5569,SEBLJ6206c,sebl6206_tfm_table_reorg.sh,Shell Script - Table Reorg,Interface_1102,Y,40,N,1800,,N
+SEBLG410@SDHN5569,SEBLJ6206d,sebl6206_tfm_table_reorg.sh,Shell Script - Table Reorg,Interface_1103,Y,80,N,1400,,N
+SEBLG410@SDHN5569,SEBLJ6250c,sebl6250_tfm_clean_arch_tab.sh,Shell Script - Cleaning Archive Tables,Interface_1104,Y,100,N,1000,,N
+SEBLG410@SDHN5569,SEBLJ7000u,sebl7000_auto_trace_error.sh,PL/SQL - Log Oracle Errors,Interface_1105,N,60,N,0500,,N
+SEBLG410@SDHN5569,SEBLJ7707b,sebl7707_auto_archive.sh,Shell script - disk space reduction,Interface_1106,N,60,N,0930,,N
+SEBLG410@SDHN5569,SEBLJ8000b,sebl8000_sode_val_LA.sh,Shell Script - SODE Basic Health check,Interface_1107,N,60,N,0600,,N
+SEBLG410@SDHN5569,SEBLJ8001b,sebl8001_sodeADW_load_LA.sh,Shell Script - Load file to table ADW,Interface_1108,N,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ8002b,sebl8002_results_LA.sh,Run PL/SQL - Procedure,Interface_1109,N,60,N,,,N
+SEBLG410@SDHN5569,SEBLJ93bx,sebl93_dqdaily_eod.sh,Shell Script - DQ Daily EOD Validation,Interface_1110,Y,80,N,,,N

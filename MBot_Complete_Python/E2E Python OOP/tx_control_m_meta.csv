@@ -1,0 +1,10 @@
+Tablename,Application,Region,Type,Active,Description
+SEBLG407@SIEBEL116,Tx,AP,NT,Y,Asia region NT jobs
+SEBLG407@ADLN5755,Tx,AP,Linux,Y,Asia region Linux jobs
+SEBLG408@-SIEBEL114,Tx,CE,NT,Y,CEEMEA region NT jobs
+SEBLG408@ADLN5755,Tx,CE,Linux,Y,CEEMEA region Linux jobs
+SEBLG409@SIEBEL118,Tx,WE,NT,Y,WE region NT jobs
+SEBLG409@ADLN5755,Tx,WE,Linux,Y,WE region Linux jobs
+SEBLG410@-SIEBEL112,Tx,LA,NT,Y,LA region NT jobs
+SEBLG410@ADLN5755,Tx,LA,Linux,Y,LA region Linux jobs
+SEBLG411@SIEBEL119,Tx,AN,NT,Y,Anaplan jobs for all regions

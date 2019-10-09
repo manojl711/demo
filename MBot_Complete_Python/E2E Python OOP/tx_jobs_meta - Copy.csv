@@ -1,0 +1,1207 @@
+CTRLM_TABLE_NAME,JOB_NAME,SCRIPT_NAME,DESCRIPTION,CRITICAL_LONG_RUN_JOBS_FLAG,THRESHOLD_RUN_TIME,CRITICAL_NOT_STARTED_JOBS_FLAG,FROM_TIME,THRESHOLD_START_TIME,EXCLUDE_JOBS_FLAG,FAIL_FLAG,TEAM_NAME,SNOW_WORK_GROUP,MIR3_WORK_GROUP,REGION,APPLICATION,JOB_TYPE
+SEBLG408@ADLN5755,SEBLJ5728c,sebl5728_optima_plan_upd.sh,Optima Plan Upload Unix Job,Y,40,N,1300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5734c,sebl5734_optima_fund_rate.sh,Optima Fund Rate Unix Job,Y,40,N,200,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5744c,sebl5744_optima_del_bsplit.sh,Optima Brandsplit Delete Unix Job,Y,40,N,1800,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5746c,sebl5746_optima_prd_denorm.sh,Optima Prod Denorm Unix Job,Y,50,Y,,1530,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5748b,sebl5748_optima_bd_trans.sh,Optima Budget Transfer Unix Job,Y,40,N,2030,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5751e,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,1600,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5751f,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,1600,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5759d,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,100,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5759e,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,90,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5760c,sebl5760_tsp_mass_upd.sh,Optima TSP Mass upload Unix Job,Y,40,N,400,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5761e,sebl5761_sdc_tsp_error.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5762c,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5762e,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,2200,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5763c,sebl5763_tsp_complete_agg.sh,Optima TSP Complete Aggregation Unix Job,Y,130,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5764c,sebl5764_tfm_autogtin.sh,Optima Auto Add GTIN Unix Job,Y,110,Y,,1530,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5769c,sebl5769_tsp_snapshot.sh,Optima TSP Snapshot Unix Job,Y,70,N,1200,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ57cx,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ57cx,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ93cx,sebl93_dqdaily_eod.sh,DQ Daily EOD Unix Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ6250c,sebl6250_tfm_clean_arch_tab.sh,Clean Archive Table Unix Job,Y,100,N,500,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ6205c,sebl6205_tfm_real_time.sh,Real Time Unix Job,N,60,N,500,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5191c,sebl5191_dqdaily_bus_close.sh,DQT Daily Unix Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5192c,sebl5192_dqdaily_ax_start.sh,DQT Daily Ax Unix Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5194c,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,100,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5194d,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,60,N,1800,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ3303c,sebl3303_dmat_master.sh,DMAT Master Unix Job,N,60,N,425,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ8003j,sebl8003_sode_val_CE.sh,CEEMEA SODE file Basic Validations,N,60,N,600,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ8004j,sebl8004_sodeADW_load_CE.sh,CEEMEA SODE File load to ADW Table,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@-SIEBEL114,SEBLJ5922c,sebl5922_tfm_wf_prmoapprov.bat,Promotion Approval to Owner Email Workflow,Y,40,N,30,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5923c,sebl5923_rev_promo_notifi.bat,Reverse Promotion Notification E-mail Workflow,N,60,N,1300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001ba,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bb,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bc,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bd,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bj,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001be,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bg,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bh,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bi,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bk,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bl,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bm,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bn,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bp,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2002bi,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Hub to Satellite NB Jhb,Y,60,N,130,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2015ba,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,40,N,,,Y,N,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2016b,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2018b,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2019b,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2220b,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2005bb,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,N,1400,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2005bc,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,1530,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ1011b,sebl1011_export_user.bat,Anaplan Users Export NT Job,N,60,N,430,,Y,N,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2017b,sebl2017_ana_usr_security.bat,Anaplan Users Security NT Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001ob,sebl2001_imp_opt_anaplan.bat,Anaplan Users import NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ1012b,sebl1012_import_user_sat.bat,Anaplan Users Satellite Import NT Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ1013b,sebl1013_snapshot_user.bat,Anaplan Users Snapshot NT Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ1014b,sebl1014_user_access.bat,Anaplan Users Access NT Job,N,60,N,1900,,Y,N,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2003ba,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock SA NT Job,N,60,N,,,Y,N,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001baf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bbf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bcf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bdf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bfz,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bgf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001bkf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2001blf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2221b,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2222bz,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ2004b,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5104u,sebl5104_tfm_act_pay_imp.bat,Optima Upload Actuals NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5106u,sebl5106_tfm_act_hdr_upd.bat,Optima Actuals Payment Header NT Job,Y,40,Y,,2000,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5108u,sebl5108_tfm_csi_stat_upd.bat,Optima Customer Invoice NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5114u,sebl5114_tfm_ap_payments.bat,Optima Vendor Invoice NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5122u,sebl5122_tfm_postoi_upd.bat,Optima Post OI NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5138u,sebl5138_tfm_treasury_upd.bat,Optima Treasury NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5304u,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5304v,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5304w,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5306u,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5306v,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5306w,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5308u,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5308v,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5308w,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5318u,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5318v,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5318w,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5318y,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5320u,sebl5320_tfm_ci_index_upd.bat,Optima Shipment CI Index NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5322u,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5322v,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5322w,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5324u,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,46,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5324v,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5328u,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,N,,2100,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5330u,sebl5330_tfm_fund_adjust.bat,Optima Fund Adjustment NT Job,Y,40,Y,,1915,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5328e,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5330b,sebl5330_tfm_fund_adjust.bat,Optima Fund Adjustment NT Job,Y,40,N,,115,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5335b,sebl5335_tfm_acc_team.bat,Optima Account Team NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5505b,sebl5505_tfm_merged_sdcprd.bat,Optima SDC Products NT Job,Y,40,N,,2359,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5507b,sebl5507_tfm_merged_sdc.bat,Optima SDC Accounts NT Job,Y,60,N,,25,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5705b,sebl5705_tfm_nsu_mt_imp.bat,Optima Nos_MT NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5707b,sebl5707_tfm_pri_imp.bat,Optima Pricelist NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5713b,sebl5713_tfm_altbdf_upload.bat,Optima AltBDF Upload NT Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5715b,sebl5715_tfm_niv_su_upload.bat,Optima NIV/SU NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5717b,sebl5717_tfm_tt_pec_upload.bat,Optima TT Perc NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5727b,sebl5727_tfm_upload_compl.bat,Optima Compliance Upload NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5729b,sebl5729_tfm_pln_prd_upd.bat,Optima Plan Upload NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5731b,sebl5731_tfm_alt_bdf_pop.bat,Optima Alt BDF Popupd NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5733b,sebl5733_optima_year_end.bat,Optima Year End Accrual Upload NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5735b,sebl5735_tfm_fund_rate_upd.bat,Optima Fund Rate NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5745b,sebl5745_tfm_del_brdsplit.bat,Optima Brandsplit Delete NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5752c,sebl5752_tfm_sca_rev_oi.bat,Optima On Invoice Reverse Scalable NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5765b,sebl5765_tfm_autogtin_wf.bat,Optima Auto Add GTIN Workflow,Y,40,N,,500,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5900b,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5900b,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1900,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5900b,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5901b,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5901b,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1900,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5901b,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5903b,sebl5903_tfm_wf_adj_mail.bat,Optima Adjustment E-mail Workflow,Y,40,N,600,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5905b,sebl5905_tfm_wf_interflg.bat,Oninvoice Interface Flag Workflow,Y,40,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5906b,sebl5906_tfm_wf_fundgrp.bat,Optima Inactive Funds Groups Workflow,Y,40,N,0,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5911b,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5911b,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,1430,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5911b,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,2000,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5912b,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5912b,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,1430,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5912b,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,2000,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5913b,sebl5913_tfm_promo_notifi.bat,Optima Promotion Notification E-Mail Workflow,Y,40,N,0005,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5920b,sebl5920_tfm_wf_oneup.bat,Oneup Manager E-mail Workflow,Y,40,N,15,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5921b,sebl5921_tfm_wf_oiexec.bat,OI Exceeded Email Workflow,Y,40,N,20,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5922b,sebl5922_tfm_wf_prmoapprov.bat,Promotion Approval to Owner Email Workflow,Y,40,N,30,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5923b,sebl5923_rev_promo_notifi.bat,Reverse Promotion Notification E-mail Workflow,N,60,N,1800,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ1011ca,sebl1011_export_user.bat,Anaplan Users Export NT Job,N,60,N,1800,,Y,N,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ1012ca,sebl1012_import_user_sat.bat,Anaplan Users Satellite Import NT Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ1013ca,sebl1013_snapshot_user.bat,Anaplan Users Snapshot NT Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ1014ca,sebl1014_user_access.bat,Anaplan Users Access NT Job,N,60,N,1900,,Y,N,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ca,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cb,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cc,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cd,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ce,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cg,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ch,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ci,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cj,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ck,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cl,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cm,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cn,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001co,sebl2001_imp_opt_anaplan.bat,Anaplan Users import NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cp,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2002ca,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite BR NB Jhb,Y,60,N,500,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2003ca,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock BR NT Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2005ca,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,N,2000,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2005cb,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,830,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2015ca,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,40,N,,,Y,N,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2016ca,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2017ca,sebl2017_ana_usr_security.bat,Anaplan Users Security NT Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2018ca,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2019ca,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2220ca,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2222ca,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cfz,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001caf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cbf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ccf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cdf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001cgf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001ckf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2001clf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2221c,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ2004c,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@ADLN5755,SEBLJ31bx,sebl31_tfm_bpt_mat_ref1.sh,BPT Refresh Materialized View1 Unix Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ32bx,sebl32_tfm_bpt_mat_ref2.sh,BPT Refresh Materialized View2 Unix Job,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5100e,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,40,N,1800,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5100f,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,40,N,600,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5103c,sebl5103_optima_actuals.sh,Optima Upload Actuals Unix Job,Y,40,N,2330,2345,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5105c,sebl5105_optima_act_hdr.sh,Optima Actuals Payment Header UNIX Job,Y,40,N,,2350,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5107c,sebl5107_optima_cst_inv.sh,Optima Customer Invoice UNIX Job,Y,40,N,2000,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5113b,sebl5113_optima_ap_pay.sh,Optima Vendor Invoice Unix Job,Y,40,N,1230,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5113f,sebl5113_optima_ap_pay.sh,Optima Vendor Invoice Unix Job,Y,40,N,1815,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5121c,sebl5121_optima_post_oi.sh,Optima Post OI Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5123d,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5123e,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5123f,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5125b,sebl5125_optima_custom_del.sh,Optima Customer Deletion Unix Job,Y,40,N,700,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5127c,sebl5127_optima_offinv_scl.sh,Optima On Invoice Scalable Unix Job,Y,40,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5129c,sebl5129_optima_offscl_ext.sh,Optima On Invoice Scalable Extract Unix Job,Y,40,N,435,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5140b,sebl5140_optima_treasury.sh,Optima Treasury Unix Job,Y,40,N,715,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ53dx,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,1200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ53ex,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5300d,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5300e,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,1900,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5300f,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5302d,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5302e,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5302f,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5303d,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5303e,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5303f,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5305d,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5305e,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5305f,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5307d,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5307e,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5307f,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5317d,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5317e,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5317f,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5319d,sebl5319_optima_ciindxload.sh,Optima Shipment CI Index Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5321d,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5321e,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5321f,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5323e,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,46,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2022bb,sebl2022_weekdays_stats.sh,Weekdays Gather Stats Unix Job,N,60,N,200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2021ba,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1000,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2021bb,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2021bc,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bb,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bc,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bd,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020be,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2021bd,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1900,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bf,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1600,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bg,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1600,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bf,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bg,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bh,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bi,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2020bj,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2024ca,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2026cx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ3505ca,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ3507ca,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5000cx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5001cx,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5002cx,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract Unix Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5004ca,sebl5004_dmy_gtin_del.sh,Del Delete dummy GTIN Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5006ca,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5007ca,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5008ca,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract Unix Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5009ca,sebl5009_ana_promo_error.sh,Anaplan Promo Error Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5010ca,sebl5010_ana_ship_tot.sh,Anaplan Total Shipment Unix Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2024caf,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2026cfx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ3505caf,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5000cfx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2005bxv,sebl2005_s_cx_daily_stats.sh,Daily Stats NT Job,N,60,N,700,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5323g,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5323h,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5325d,sebl5325_optima_altbdfload.sh,Optima Shipment AltBdfLoad Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5327b,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,N,,120,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5327e,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5329b,sebl5329_optima_fund_adjst.sh,Optima Fund Adjustment Unix Job,Y,40,N,100,115,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5332c,sebl5332_optima_int_ord.sh,Optima Internal Order Unix Job,Y,40,N,0,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5334b,sebl5334_tfm_acc_team.sh,Optima Account Team Unix Job,Y,40,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5338c,sebl5338_optima_error_rep.sh,Optima Consolidated Error Reports Unix Job,Y,40,N,600,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ54bx,sebl54_tfm_sdc_ax.sh,Send GC to AX after Global SVP completes Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5500b,sebl5500_sdc_view_load1.sh,Optima SDC Views load1 Unix Job,Y,40,N,2300,2315,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5502b,sebl5502_sdc_view_load3.sh,Optima SDC Views load3 Unix Job,Y,40,N,2300,2315,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5504b,sebl5504_optima_prd_sdc.sh,Optima SDC Products Unix Job,Y,60,N,,2325,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5506b,sebl5506_optima_acc_sdc.sh,Optima SDC Accounts Unix Job,Y,40,N,,15,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5508b,sebl5508_optima_err_sdc.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5512c,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,60,N,,500,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5512d,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5544b,sebl5544_optima_shipto.sh,Optima Oneup Shipto Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5545b,sebl5545_optima_cib_shipto.sh,Optima Oneup CIB Shipto Unix Job,Y,40,N,455,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ56bx,sebl56_tfm_fundtrnsfr_ax.sh,Optima Ax Fund Trasfer Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ57bx,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ57bx,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5704b,sebl5704_optima_nos_mt.sh,Optima Nos_MT Unix Job,Y,40,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5706b,sebl5706_optima_price_list.sh,Optima Pricelist Unix Job,Y,40,N,100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5708b,sebl5708_optima_base_svp.sh,Optima SVP Aggregation Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5712b,sebl5712_optima_bdf_upload.sh,Optima AltBDF Upload Unix Job,Y,40,N,1800,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5714b,sebl5714_optima_niv_su.sh,Optima NIV/SU Unix Job,Y,40,N,100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5716b,sebl5716_optima_tt_perc.sh,Optima TT Perc Unix Job,Y,40,N,1900,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5722b,sebl5722_optima_cust_acq.sh,Optima Customer Acquire Unix Job,Y,40,N,,115,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5724b,sebl5724_optima_revar_cost.sh,Optima RVC Unix Job,Y,40,N,630,645,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5726b,sebl5726_optima_compl_upd.sh,Optima Compliance Upload Unix Job,Y,40,N,2015,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5728b,sebl5728_optima_plan_upd.sh,Optima Plan Upload Unix Job,Y,40,N,1830,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5730b,sebl5730_optima_bdf_popupd.sh,Optima Alt BDF Popupd Unix Job,Y,40,N,1930,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5732b,sebl5732_optima_yr_endupd.sh,Optima Year End Accrual Upload Unix Job,Y,40,N,1945,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5744b,sebl5744_optima_del_bsplit.sh,Optima Brandsplit Delete Unix Job,Y,40,N,0,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5746b,sebl5746_optima_prd_denorm.sh,Optima Prod Denorm Unix Job,Y,40,N,,115,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5748c,sebl5748_optima_bd_trans.sh,Optima Budget Transfer Unix Job,Y,40,N,415,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5751c,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,2200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5759c,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5759d,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5760b,sebl5760_tsp_mass_upd.sh,Optima TSP Mass upload Unix Job,Y,40,N,410,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5761d,sebl5761_sdc_tsp_error.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5762c,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5762d,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,430,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5763b,sebl5763_tsp_complete_agg.sh,Optima TSP Complete Aggregation Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5764b,sebl5764_tfm_autogtin.sh,Optima Auto Add GTIN Unix Job,Y,40,N,0410,430,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5769b,sebl5769_tsp_snapshot.sh,Optima TSP Snapshot Unix Job,Y,40,N,1800,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ7000u,sebl7000_auto_trace_error.sh,Auto Trace Error Unix Job,N,60,N,500,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ7707b,sebl7707_auto_archive.sh,Auto Archival/Disk Space Reduction Unix Job,N,60,N,930,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ93bx,sebl93_dqdaily_eod.sh,DQ Daily EOD Unix Job,Y,80,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ6205b,sebl6205_tfm_real_time.sh,Real Time Unix Job,N,60,N,500,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ6206c,sebl6206_tfm_table_reorg.sh,Table Reorg Unix Job,Y,40,N,1800,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ6206d,sebl6206_tfm_table_reorg.sh,Table Reorg Unix Job,Y,80,N,1400,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ6250c,sebl6250_tfm_clean_arch_tab.sh,Clean Archive Table Unix Job,Y,100,N,1000,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5191b,sebl5191_dqdaily_bus_close.sh,DQT Daily Unix Job,N,60,N,2100,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5192b,sebl5192_dqdaily_ax_start.sh,DQT Daily Ax Unix Job,N,60,N,200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5194b,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,60,N,2300,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ5734b,sebl5734_optima_fund_rate.sh,Optima Fund Rate Unix Job,Y,40,N,500,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ8000b,sebl8000_sode_val_LA.sh,LA SODE file Basic Validations,N,60,N,600,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ8001b,sebl8001_sodeADW_load_LA.sh,LA SODE File load to ADW Table,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ8002b,sebl8002_results_LA.sh,LA SODE DQ Validations Results,N,60,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ3303d,sebl3303_dmat_master.sh,DMAT Master Unix Job,N,60,N,429,,Y,N,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG410@ADLN5755,SEBLJ2022ba,sebl2022_weekdays_stats.sh,Weekdays Gather Stats Unix Job,N,60,N,200,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,Linux
+SEBLG409@SIEBEL118,SEBLJ5727v,sebl5727_tfm_upload_compl.bat,Optima Compliance Upload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5739u,sebl5739_tfm_spk_pack_upd.bat,Optima Special Pack SID NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ba,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bb,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bc,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bd,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bj,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001be,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bg,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bh,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bi,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bk,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG409@ADLN5755,SEBLJ5759f,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,90,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5760d,sebl5760_tsp_mass_upd.sh,Optima TSP Mass upload Unix Job,Y,40,N,400,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5761f,sebl5761_sdc_tsp_error.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5762d,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5762f,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,2200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5763d,sebl5763_tsp_complete_agg.sh,Optima TSP Complete Aggregation Unix Job,Y,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5764u,sebl5764_tfm_autogtin.sh,Optima Auto Add GTIN Unix Job,Y,60,Y,,2030,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5769u,sebl5769_tsp_snapshot.sh,Optima TSP Snapshot Unix Job,Y,40,N,1130,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ57ux,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ57ux,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ93ux,sebl93_dqdaily_eod.sh,DQ Daily EOD Unix Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ7707u,sebl7707_auto_archive.sh,Auto Archival/Disk Space Reduction Unix Job,N,60,N,530,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ6205u,sebl6205_tfm_real_time.sh,Real Time Unix Job,N,60,N,500,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ6206u,sebl6206_tfm_table_reorg.sh,Table Reorg Unix Job,Y,40,N,1400,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ6206v,sebl6206_tfm_table_reorg.sh,Table Reorg Unix Job,Y,170,N,1800,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ6250u,sebl6250_tfm_clean_arch_tab.sh,Clean Archive Table Unix Job,Y,130,N,2300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5191u,sebl5191_dqdaily_bus_close.sh,DQT Daily Unix Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5192u,sebl5192_dqdaily_ax_start.sh,DQT Daily Ax Unix Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5194u,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5194v,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,40,N,2000,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5997u,sebl5997_sode.sh,Lode SODE Shipment file to ADW Table,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5998u,sebl5998_sode.sh,Lode SODE Shipment file to CDW Table,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5999u,sebl5999_sode_val.sh,SODE DQ Validations,N,60,N,600,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ3303u,sebl3303_dmat_master.sh,DMAT Master Unix Job,N,60,N,427,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020ua,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020ub,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2021ua,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020uc,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020ud,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020ue,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020uf,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020ug,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020uh,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020ui,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2021ub,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,2200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2021uc,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,2200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020uj,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1500,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2020uk,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5004u,sebl5004_dmy_gtin_del.sh,Del Delete dummy GTIN Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2024u,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,45,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2024uf,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,250,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2026ux,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2026uxf,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ3505u,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ3505uf,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ3507u,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract Unix Job,Y,100,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5000ux,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5000uxf,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5001ux,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5002ux,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5006u,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload Unix Job,Y,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5007u,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5722u,sebl5722_optima_cust_acq.sh,Optima Customer Acquire Unix Job,Y,50,Y,,1510,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5724u,sebl5724_optima_revar_cost.sh,Optima RVC Unix Job,Y,40,Y,,2140,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5726u,sebl5726_optima_compl_upd.sh,Optima Compliance Upload Unix Job,Y,40,N,1100,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5726v,sebl5726_optima_compl_upd.sh,Optima Compliance Upload Unix Job,Y,40,N,1230,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5728u,sebl5728_optima_plan_upd.sh,Optima Plan Upload Unix Job,Y,40,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5732u,sebl5732_optima_yr_endupd.sh,Optima Year End Accrual Upload Unix Job,Y,40,N,1130,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5732v,sebl5732_optima_yr_endupd.sh,Optima Year End Accrual Upload Unix Job,Y,40,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5734u,sebl5734_optima_fund_rate.sh,Optima Fund Rate Unix Job,Y,40,N,200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5734v,sebl5734_optima_fund_rate.sh,Optima Fund Rate Unix Job,Y,40,N,0,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5736u,sebl5736_optima_reb_agree.sh,Optima Rebate Agreement Unix Job,Y,40,N,1630,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5738u,sebl5738_optima_spk_sid.sh,Optima Special Pack SID Unix Job,Y,40,N,1630,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5744u,sebl5744_optima_del_bsplit.sh,Optima Brandsplit Delete Unix Job,Y,40,N,1800,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5746u,sebl5746_optima_prd_denorm.sh,Optima Prod Denorm Unix Job,Y,50,Y,,1510,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5759e,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,75,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5008u,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5009u,sebl5009_ana_promo_error.sh,Anaplan Promo Error Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5010ua,sebl5010_ana_ship_tot.sh,Anaplan Total Shipment Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5127ue,sebl5127_optima_offinv_scl.sh,Optima On Invoice Scalable Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5129ue,sebl5129_optima_offscl_ext.sh,Optima On Invoice Scalable Extract Unix Job,Y,40,N,435,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5751ue,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5751uf,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5100wz,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,40,N,100,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ2005bd,sebl2005_s_cx_daily_stats.sh,Daily Stats NT Job,N,60,N,0,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG407@SIEBEL116,SEBLJ5104a,sebl5104_tfm_act_pay_imp.bat,Optima Upload Actuals NT Job,Y,40,Y,,1315,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5104b,sebl5104_tfm_act_pay_imp.bat,Optima Upload Actuals NT Job,Y,40,Y,,1345,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5106a,sebl5106_tfm_act_hdr_upd.bat,Optima Actuals Payment Header NT Job,Y,40,Y,,1330,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5106b,sebl5106_tfm_act_hdr_upd.bat,Optima Actuals Payment Header NT Job,Y,40,Y,,1345,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5108a,sebl5108_tfm_csi_stat_upd.bat,Optima Customer Invoice NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5108b,sebl5108_tfm_csi_stat_upd.bat,Optima Customer Invoice NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5110a,sebl5110_tfm_ded_upd.bat,Optima Deductions NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5110b,sebl5110_tfm_ded_upd.bat,Optima Deductions NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5112a,sebl5112_tfm_off_inv_upd.bat,Optima Offinvoice Update NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5112b,sebl5112_tfm_off_inv_upd.bat,Optima Offinvoice Update NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5114a,sebl5114_tfm_ap_payments.bat,Optima Vendor Invoice NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5122a,sebl5122_tfm_postoi_upd.bat,Optima Post OI NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5122b,sebl5122_tfm_postoi_upd.bat,Optima Post OI NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5128a,sebl5128_tfm_sca_off_inv.bat,Optima On Invoice Scalable NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5128b,sebl5128_tfm_sca_off_inv.bat,Optima On Invoice Scalable NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5138a,sebl5138_tfm_treasury_upd.bat,Optima Treasury NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5304a,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5304b,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5304c,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5306a,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5306b,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,120,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5306c,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5318a,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5318b,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5318c,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5320a,sebl5320_tfm_ci_index_upd.bat,Optima Shipment CI Index NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5322a,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,50,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5322b,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5322c,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5324a,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,46,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5324c,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,46,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5324d,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,46,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5328a,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,Y,,1530,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5328f,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5330a,sebl5330_tfm_fund_adjust.bat,Optima Fund Adjustment NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5335a,sebl5335_tfm_acc_team.bat,Optima Account Team NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5505a,sebl5505_tfm_merged_sdcprd.bat,Optima SDC Products NT Job,Y,60,Y,,1215,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5507a,sebl5507_tfm_merged_sdc.bat,Optima SDC Accounts NT Job,Y,70,Y,,1330,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5705a,sebl5705_tfm_nsu_mt_imp.bat,Optima Nos_MT NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5707a,sebl5707_tfm_pri_imp.bat,Optima Pricelist NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5715a,sebl5715_tfm_niv_su_upload.bat,Optima NIV/SU NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5717a,sebl5717_tfm_tt_pec_upload.bat,Optima TT Perc NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5725a,sebl5725_tfm_rev_var_cost.bat,Optima RVC NT Job,Y,40,Y,,1100,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5727a,sebl5727_tfm_upload_compl.bat,Optima Compliance Upload NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5729a,sebl5729_tfm_pln_prd_upd.bat,Optima Plan Upload NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5733a,sebl5733_optima_year_end.bat,Optima Year End Accrual Upload NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5735a,sebl5735_tfm_fund_rate_upd.bat,Optima Fund Rate NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5745a,sebl5745_tfm_del_brdsplit.bat,Optima Brandsplit Delete NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5752a,sebl5752_tfm_sca_rev_oi.bat,Optima On Invoice Reverse Scalable NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5335u,sebl5335_tfm_acc_team.bat,Optima Account Team NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5505u,sebl5505_tfm_merged_sdcprd.bat,Optima SDC Products NT Job,Y,60,Y,,1310,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5507u,sebl5507_tfm_merged_sdc.bat,Optima SDC Accounts NT Job,Y,60,Y,,1430,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5707u,sebl5707_tfm_pri_imp.bat,Optima Pricelist NT Job,Y,130,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5715u,sebl5715_tfm_niv_su_upload.bat,Optima NIV/SU NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5717u,sebl5717_tfm_tt_pec_upload.bat,Optima TT Perc NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5725u,sebl5725_tfm_rev_var_cost.bat,Optima RVC NT Job,Y,40,N,,1940,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5727u,sebl5727_tfm_upload_compl.bat,Optima Compliance Upload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5729u,sebl5729_tfm_pln_prd_upd.bat,Optima Plan Upload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5733u,sebl5733_optima_year_end.bat,Optima Year End Accrual Upload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5733v,sebl5733_optima_year_end.bat,Optima Year End Accrual Upload NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5735u,sebl5735_tfm_fund_rate_upd.bat,Optima Fund Rate NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5735v,sebl5735_tfm_fund_rate_upd.bat,Optima Fund Rate NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5737u,sebl5737_tfm_reb_agree_upd.bat,Optima Rebate Agreement NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5745u,sebl5745_tfm_del_brdsplit.bat,Optima Brandsplit Delete NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5765u,sebl5765_tfm_autogtin_wf.bat,Optima Auto Add GTIN Workflow,Y,40,N,,1840,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5900u,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5900u,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5900u,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,100,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5901u,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5901u,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5901u,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,100,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5903u,sebl5903_tfm_wf_adj_mail.bat,Optima Adjustment E-mail Workflow,Y,40,N,600,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5905u,sebl5905_tfm_wf_interflg.bat,Oninvoice Interface Flag Workflow,Y,40,N,1400,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5906u,sebl5906_tfm_wf_fundgrp.bat,Optima Inactive Funds Groups Workflow,Y,40,N,0,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5910u,sebl5910_tfm_wf_SVP.bat,Optima SVP Workflow,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5911u,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,1430,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5911u,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5911u,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,2000,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5912u,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5912u,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,2000,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5912u,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,1430,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5913u,sebl5913_tfm_promo_notifi.bat,Optima Promotion Notification E-Mail Workflow,Y,40,N,0005,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5920u,sebl5920_tfm_wf_oneup.bat,Oneup Manager E-mail Workflow,Y,40,N,15,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5921u,sebl5921_tfm_wf_oiexec.bat,OI Exceeded Email Workflow,Y,40,N,20,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5922u,sebl5922_tfm_wf_prmoapprov.bat,Promotion Approval to Owner Email Workflow,Y,40,N,30,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5923u,sebl5923_rev_promo_notifi.bat,Reverse Promotion Notification E-mail Workflow,N,60,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2006aa,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA CEEMEA NT Job,Y,40,N,100,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2006ab,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA APAC NP Jib,Y,40,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2007aa,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA EMEA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2007ab,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA APAC NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2010aa,sebl2010_pea_exp_ana_ce.bat,Anaplan Export PEA EMEA NT Job,Y,40,N,130,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2010ab,sebl2010_pea_exp_ana_ce.bat,Anaplan Export PEA EMEA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2011aa,sebl2011_pea_exp_ana_apac.bat,Anaplan Export PEA APAC NT Job,Y,40,N,145,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2011ab,sebl2011_pea_exp_ana_apac.bat,Anaplan Export PEA APAC NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2006ac,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA LA NT Job,Y,40,N,110,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2007ac,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA LA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2012aa,sebl2012_pea_exp_ana_la.bat,Anaplan Export PEA LA NT Job,Y,40,N,205,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2012ab,sebl2012_pea_exp_ana_la.bat,Anaplan Export PEA LA NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ua,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uaf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ub,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ubf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uc,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ucf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ud,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001udf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ue,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ug,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ugf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uh,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ui,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uj,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001uk,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ukf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ul,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001ulf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001um,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001un,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2001up,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2002ua,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite UKC NB Jhb,Y,40,N,130,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2002ub,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite UKC NB Jhb,Y,40,N,135,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2003ua,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock UKC1 NT Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2003ub,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock UKC2 NT Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2005ub,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,N,1600,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2005uc,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,1530,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2006ad,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA WE NT Job,Y,250,N,1900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2007ad,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA WE NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2013aa,sebl2013_pea_exp_ana_we.bat,Anaplan Export PEA WE NT Job,Y,40,N,220,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2013ab,sebl2013_pea_exp_ana_we.bat,Anaplan Export PEA WE NT Job,Y,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2015wp,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,260,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2016u,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,100,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2018u,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2019u,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2220u,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2221u,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2222u,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5128ue,sebl5128_tfm_sca_off_inv.bat,Optima On Invoice Scalable NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ5752ue,sebl5752_tfm_sca_rev_oi.bat,Optima On Invoice Reverse Scalable NT Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG409@SIEBEL118,SEBLJ2004u,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,NT
+SEBLG407@ADLN5755,SEBLJ31ax,sebl31_tfm_bpt_mat_ref1.sh,BPT Refresh Materialized View1 Unix Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ32ax,sebl32_tfm_bpt_mat_ref2.sh,BPT Refresh Materialized View2 Unix Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100a,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,900,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100b,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100c,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,2100,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100d,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100k,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100l,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100m,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,430,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5100n,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5103a,sebl5103_optima_actuals.sh,Optima Upload Actuals Unix Job,Y,40,Y,1230,1245,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5103b,sebl5103_optima_actuals.sh,Optima Upload Actuals Unix Job,Y,40,Y,,1330,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5105a,sebl5105_optima_act_hdr.sh,Optima Actuals Payment Header UNIX Job,Y,40,Y,,1330,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5105b,sebl5105_optima_act_hdr.sh,Optima Actuals Payment Header UNIX Job,Y,40,Y,,1345,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5107a,sebl5107_optima_cst_inv.sh,Optima Customer Invoice UNIX Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5107b,sebl5107_optima_cst_inv.sh,Optima Customer Invoice UNIX Job,Y,40,N,930,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5111a,sebl5111_optima_off_inv.sh,Optima Offinvoice Unix Job,Y,50,N,1000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5113a,sebl5113_optima_ap_pay.sh,Optima Vendor Invoice Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5117a,sebl5117_optima_off_invext.sh,Optima Off-Invoice Invext Unix Job,Y,40,N,405,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5121a,sebl5121_optima_post_oi.sh,Optima Post OI Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5121b,sebl5121_optima_post_oi.sh,Optima Post OI Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5123a,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5123b,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5123c,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5125a,sebl5125_optima_custom_del.sh,Optima Customer Deletion Unix Job,Y,40,N,700,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5127a,sebl5127_optima_offinv_scl.sh,Optima On Invoice Scalable Unix Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5127b,sebl5127_optima_offinv_scl.sh,Optima On Invoice Scalable Unix Job,Y,75,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5129a,sebl5129_optima_offscl_ext.sh,Optima On Invoice Scalable Extract Unix Job,Y,40,N,405,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5140a,sebl5140_optima_treasury.sh,Optima Treasury Unix Job,Y,40,N,1530,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ53ax,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,400,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ53bx,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5300a,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5300b,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,60,N,400,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5300c,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5302a,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5302b,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,50,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5302c,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,50,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5303a,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5303b,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5303c,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5305a,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,90,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5305b,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5305c,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5307a,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,60,N,,,Y,N,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5307b,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5307c,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5317a,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5317b,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5317c,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5319a,sebl5319_optima_ciindxload.sh,Optima Shipment CI Index Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5321a,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,50,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5321b,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5321c,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5323a,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,46,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5323c,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,46,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5323d,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,46,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5327a,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,Y,1430,1515,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5327f,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5329a,sebl5329_optima_fund_adjst.sh,Optima Fund Adjustment Unix Job,Y,40,N,1300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5332a,sebl5332_optima_int_ord.sh,Optima Internal Order Unix Job,Y,40,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5332b,sebl5332_optima_int_ord.sh,Optima Internal Order Unix Job,Y,40,N,1300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5334a,sebl5334_tfm_acc_team.sh,Optima Account Team Unix Job,Y,40,N,1000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5338a,sebl5338_optima_error_rep.sh,Optima Consolidated Error Reports Unix Job,Y,40,N,1800,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ54ax,sebl54_tfm_sdc_ax.sh,Send GC to AX after Global SVP completes Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5500a,sebl5500_sdc_view_load1.sh,Optima SDC Views load1 Unix Job,Y,40,Y,1100,1115,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5502a,sebl5502_sdc_view_load3.sh,Optima SDC Views load3 Unix Job,Y,40,Y,1100,1115,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5504a,sebl5504_optima_prd_sdc.sh,Optima SDC Products Unix Job,Y,60,Y,,1120,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5506a,sebl5506_optima_acc_sdc.sh,Optima SDC Accounts Unix Job,Y,60,Y,,1225,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5508a,sebl5508_optima_err_sdc.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5512a,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,130,Y,1230,1330,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5512b,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,100,N,1230,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5544a,sebl5544_optima_shipto.sh,Optima Oneup Shipto Unix Job,Y,40,N,1100,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5545a,sebl5545_optima_cib_shipto.sh,Optima Oneup CIB Shipto Unix Job,Y,50,N,1255,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ56ax,sebl56_tfm_fundtrnsfr_ax.sh,Optima Ax Fund Trasfer Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ57ax,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ57ax,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5704a,sebl5704_optima_nos_mt.sh,Optima Nos_MT Unix Job,Y,40,N,1000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5706a,sebl5706_optima_price_list.sh,Optima Pricelist Unix Job,Y,40,N,1300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5708a,sebl5708_optima_base_svp.sh,Optima SVP Aggregation Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5714a,sebl5714_optima_niv_su.sh,Optima NIV/SU Unix Job,Y,40,N,1100,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5716a,sebl5716_optima_tt_perc.sh,Optima TT Perc Unix Job,Y,40,N,1000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5722a,sebl5722_optima_cust_acq.sh,Optima Customer Acquire Unix Job,Y,40,Y,,1430,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5724a,sebl5724_optima_revar_cost.sh,Optima RVC Unix Job,Y,60,Y,1000,1015,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5726a,sebl5726_optima_compl_upd.sh,Optima Compliance Upload Unix Job,Y,40,N,1500,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5728a,sebl5728_optima_plan_upd.sh,Optima Plan Upload Unix Job,Y,40,N,1400,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5732a,sebl5732_optima_yr_endupd.sh,Optima Year End Accrual Upload Unix Job,Y,40,N,1130,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5734a,sebl5734_optima_fund_rate.sh,Optima Fund Rate Unix Job,Y,40,N,1700,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5744a,sebl5744_optima_del_bsplit.sh,Optima Brandsplit Delete Unix Job,Y,40,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5746a,sebl5746_optima_prd_denorm.sh,Optima Prod Denorm Unix Job,Y,60,Y,,1440,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5748a,sebl5748_optima_bd_trans.sh,Optima Budget Transfer Unix Job,Y,40,N,1430,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5751a,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5751b,sebl5751_optima_rev_oi_scl.sh,Optima On Invoice Reverse Scalable Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5759a,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,100,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5759b,sebl5759_ship_tsp.sh,Optima TSP Shipment Unix Job,Y,120,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5760a,sebl5760_tsp_mass_upd.sh,Optima TSP Mass upload Unix Job,Y,40,N,400,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5761b,sebl5761_sdc_tsp_error.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5762a,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5762b,sebl5762_tsp_error.sh,Optima TSP Error Report Unix Job,Y,40,N,1300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5763a,sebl5763_tsp_complete_agg.sh,Optima TSP Complete Aggregation Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5764a,sebl5764_tfm_autogtin.sh,Optima Auto Add GTIN Unix Job,Y,90,Y,0400,430,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5769a,sebl5769_tsp_snapshot.sh,Optima TSP Snapshot Unix Job,Y,40,N,730,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ7707a,sebl7707_auto_archive.sh,Auto Archival/Disk Space Reduction Unix Job,N,60,N,530,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ93ax,sebl93_dqdaily_eod.sh,DQ Daily EOD Unix Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ6205a,sebl6205_tfm_real_time.sh,Real Time Unix Job,N,60,N,500,,Y,N,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ6250a,sebl6250_tfm_clean_arch_tab.sh,Clean Archive Table Unix Job,Y,200,N,1900,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ3303a,sebl3303_dmat_master.sh,DMAT Master Unix Job,N,60,N,400,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5191a,sebl5191_dqdaily_bus_close.sh,DQT Daily Unix Job,N,60,N,800,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5192a,sebl5192_dqdaily_ax_start.sh,DQT Daily Ax Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5194a,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,150,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5194e,sebl5194_dqweekly_eod.sh,DQT Weekly EOD Unix Job,Y,130,N,1600,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ8006a,sebl8006_sode_val_ASIA.sh,ASIA SODE file Basic Validations,N,60,N,300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ8007a,sebl8007_sodeADW_load_ASIA.sh,ASIA SODE File load to ADW Table,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ8008a,sebl8008_results_ASIA.sh,ASIA SODE DQ Validations Results,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5755a,sebl5755_optima_ff_index.sh,Optima Fund Forecast Index Unix Job,Y,40,N,130,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5329f,sebl5329_optima_fund_adjst.sh,Optima Fund Adjustment Unix Job,Y,40,N,200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5734f,sebl5734_optima_fund_rate.sh,Optima Fund Rate Unix Job,Y,40,N,300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5760f,sebl5760_tsp_mass_upd.sh,Optima TSP Mass upload Unix Job,Y,40,N,330,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5763f,sebl5763_tsp_complete_agg.sh,Optima TSP Complete Aggregation Unix Job,Y,40,N,730,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5760k,sebl5760_tsp_mass_upd.sh,Optima TSP Mass upload Unix Job,Y,40,N,330,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020aa,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,0,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020an,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1600,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ao,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1600,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ap,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020aq,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ar,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020as,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020at,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020au,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020av,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020aw,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,2300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ab,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,230,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ac,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,230,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ad,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,800,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ae,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,800,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020af,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ag,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ah,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ai,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020aj,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020ak,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020al,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2020am,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1200,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2021ab,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1600,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2021ac,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2021ad,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,2330,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ6206a,sebl6206_tfm_table_reorg.sh,Table Reorg Unix Job,Y,200,N,130,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ8005j,sebl8005_results_CE.sh,CEEMEA SODE DQ Validations Results,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020ca,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,0,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020cb,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,30,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020cc,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,900,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020cd,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1000,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020ce,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1000,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020cf,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020cg,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020ch,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020ci,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020cj,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2020ck,sebl2020_daily_stats.sh,Daily Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2021cb,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,500,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2021cc,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1700,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2021cd,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1800,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2021ce,sebl2021_weekly_stats.sh,Weekly Gather Stats Unix Job,N,60,N,1800,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ6206a,sebl6206_tfm_table_reorg.sh,Table Reorg Unix Job,Y,180,N,130,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ7707c,sebl7707_auto_archive.sh,Auto Archival/Disk Space Reduction Unix Job,N,60,N,730,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2024b,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2026bx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5000bx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5001bx,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5002bx,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ3505b,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ3507b,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5006b,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5007b,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5008b,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5009b,sebl5009_ana_promo_error.sh,Anaplan Promo Error Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5010ba,sebl5010_ana_ship_tot.sh,Anaplan Total Shipment Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5004b,sebl5004_dmy_gtin_del.sh,Del Delete dummy GTIN Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5000bxf,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ3505bf,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2024bf,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2026bxf,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ57cz,sebl57_optima_basevolume.sh,Optima Base Volume Unix Job,Y,70,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5708cn,sebl5708_optima_base_svp.sh,Optima SVP Aggregation Unix Job,Y,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ2005bm,sebl2005_s_cx_daily_stats.sh,Daily Stats NT Job,N,60,N,0,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG410@-SIEBEL112,SEBLJ5104c,sebl5104_tfm_act_pay_imp.bat,Optima Upload Actuals NT Job,Y,40,N,,2350,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5106c,sebl5106_tfm_act_hdr_upd.bat,Optima Actuals Payment Header NT Job,Y,40,N,,2350,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5108c,sebl5108_tfm_csi_stat_upd.bat,Optima Customer Invoice NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5114b,sebl5114_tfm_ap_payments.bat,Optima Vendor Invoice NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5114f,sebl5114_tfm_ap_payments.bat,Optima Vendor Invoice NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5122c,sebl5122_tfm_postoi_upd.bat,Optima Post OI NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5128c,sebl5128_tfm_sca_off_inv.bat,Optima On Invoice Scalable NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5138b,sebl5138_tfm_treasury_upd.bat,Optima Treasury NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5304d,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5304e,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5304f,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5306d,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5306e,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5306f,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5308d,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,50,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5308e,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5308f,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5318d,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5318e,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5318f,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5320d,sebl5320_tfm_ci_index_upd.bat,Optima Shipment CI Index NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5322d,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5322e,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5322f,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5324e,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,46,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5324g,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5324h,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5326d,sebl5326_tfm_alt_bdf.bat,Optima Shipment AltBdfLoad Unix Job,Y,40,N,,,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG410@-SIEBEL112,SEBLJ5328b,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,N,,120,N,Y,Optima LA,HPE_CDS_TFM_Optima_TX_L2,LATX,LA,Tx,NT
+SEBLG407@ADLN5755,SEBLJ2024a,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ3505a,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ3507a,sebl3507_anaplan_sid_ext.sh,Anaplan Promotion Sid Extract Unix Job,Y,40,Y,,1000,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5006a,sebl5006_anapln_mass_upld.sh,Anaplan Mass Product Plan and Vol Upload Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5007a,sebl5007_anapln_sku_upld.sh,Anaplan New SKU Plan  Upload Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5008a,sebl5008_ana_ship_volume.sh,Anaplan Shipment Vol extract Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5009a,sebl5009_ana_promo_error.sh,Anaplan Promo Error Unix Job,Y,40,Y,,1010,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2026ax,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5000ax,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5001ax,sebl5001_ana_suff_report.sh,Anaplan Sufficiency Report Unix Job,Y,50,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5002ax,sebl5002_ana_ship_sum_cu.sh,Anaplan Promotion Volume Extract Unix Job,Y,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5010aa,sebl5010_ana_ship_tot.sh,Anaplan Total Shipment Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5004a,sebl5004_dmy_gtin_del.sh,Del Delete dummy GTIN Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2024af,sebl2024_anapln_accprd_sync.sh,Anaplan Account-Product Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2026afx,sebl2026_anaplan_fund_sync.sh,Anaplan Funds Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ3505af,sebl3505_anaplan_pay_ext.sh,Anaplan Promotion Payment Extract Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ5000afx,sebl5000_ana_rvc_sum_cu.sh,Anaplan Promotion RVC Extract Unix Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2005be,sebl2005_s_cx_daily_stats.sh,Daily Stats NT Job,N,60,N,1800,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ2005bh,sebl2005_s_cx_daily_stats.sh,Daily Stats NT Job,N,60,N,1800,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG407@ADLN5755,SEBLJ4007a,sebl4007_DM2_mbot.sh,M Bot Unix Job,N,60,N,400,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ31cx,sebl31_tfm_bpt_mat_ref1.sh,BPT Refresh Materialized View1 Unix Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ32cx,sebl32_tfm_bpt_mat_ref2.sh,BPT Refresh Materialized View2 Unix Job,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5100g,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,1300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5100h,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,40,N,100,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5103d,sebl5103_optima_actuals.sh,Optima Upload Actuals Unix Job,Y,40,Y,1830,1945,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5105d,sebl5105_optima_act_hdr.sh,Optima Actuals Payment Header UNIX Job,Y,40,Y,,2000,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5107d,sebl5107_optima_cst_inv.sh,Optima Customer Invoice UNIX Job,Y,40,N,1400,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5113c,sebl5113_optima_ap_pay.sh,Optima Vendor Invoice Unix Job,Y,40,N,1430,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5121d,sebl5121_optima_post_oi.sh,Optima Post OI Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5123g,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5123h,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5123j,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5125c,sebl5125_optima_custom_del.sh,Optima Customer Deletion Unix Job,Y,40,N,130,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5127e,sebl5127_optima_offinv_scl.sh,Optima On Invoice Scalable Unix Job,Y,80,N,1600,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5129e,sebl5129_optima_offscl_ext.sh,Optima On Invoice Scalable Extract Unix Job,Y,40,N,435,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5140c,sebl5140_optima_treasury.sh,Optima Treasury Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5300g,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5300h,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,900,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5300j,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5302g,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,70,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5302h,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5302j,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5303g,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5303h,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5303j,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5305g,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5305h,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5305j,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5307g,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5307h,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5307j,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5317g,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5317h,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5317j,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5319g,sebl5319_optima_ciindxload.sh,Optima Shipment CI Index Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5321g,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5321h,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5321j,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5323j,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5323l,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5323m,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5327c,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,Y,,2220,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5327g,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5329c,sebl5329_optima_fund_adjst.sh,Optima Fund Adjustment Unix Job,Y,40,Y,1900,1915,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5332d,sebl5332_optima_int_ord.sh,Optima Internal Order Unix Job,Y,40,N,1800,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5334c,sebl5334_tfm_acc_team.sh,Optima Account Team Unix Job,Y,40,N,2145,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5338b,sebl5338_optima_error_rep.sh,Optima Consolidated Error Reports Unix Job,Y,40,N,0,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ53gx,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,930,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ53hx,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ54cx,sebl54_tfm_sdc_ax.sh,Send GC to AX after Global SVP completes Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5500c,sebl5500_sdc_view_load1.sh,Optima SDC Views load1 Unix Job,Y,40,Y,1115,1215,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5502c,sebl5502_sdc_view_load3.sh,Optima SDC Views load3 Unix Job,Y,40,Y,1115,1215,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5504c,sebl5504_optima_prd_sdc.sh,Optima SDC Products Unix Job,Y,120,Y,,1159,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5506c,sebl5506_optima_acc_sdc.sh,Optima SDC Accounts Unix Job,Y,60,Y,,1400,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5508c,sebl5508_optima_err_sdc.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5512e,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,160,Y,,2000,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5512f,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,160,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5544c,sebl5544_optima_shipto.sh,Optima Oneup Shipto Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5545c,sebl5545_optima_cib_shipto.sh,Optima Oneup CIB Shipto Unix Job,Y,40,N,2055,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ55cx,sebl55_tfm_ax_revcost.sh,Recieve GC from AX to RevCost Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ56cx,sebl56_tfm_fundtrnsfr_ax.sh,Optima Ax Fund Trasfer Unix Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5704c,sebl5704_optima_nos_mt.sh,Optima Nos_MT Unix Job,Y,40,N,1600,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5706c,sebl5706_optima_price_list.sh,Optima Pricelist Unix Job,Y,40,N,1900,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5708c,sebl5708_optima_base_svp.sh,Optima SVP Aggregation Unix Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5714c,sebl5714_optima_niv_su.sh,Optima NIV/SU Unix Job,Y,80,N,2300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5716c,sebl5716_optima_tt_perc.sh,Optima TT Perc Unix Job,Y,40,N,2200,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5722c,sebl5722_optima_cust_acq.sh,Optima Customer Acquire Unix Job,Y,40,Y,,1530,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5724c,sebl5724_optima_revar_cost.sh,Optima RVC Unix Job,Y,60,N,,1815,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5726c,sebl5726_optima_compl_upd.sh,Optima Compliance Upload Unix Job,Y,40,N,1100,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@ADLN5755,SEBLJ5726e,sebl5726_optima_compl_upd.sh,Optima Compliance Upload Unix Job,Y,40,N,1300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,Linux
+SEBLG408@-SIEBEL114,SEBLJ5106d,sebl5106_tfm_act_hdr_upd.bat,Optima Actuals Payment Header NT Job,Y,40,Y,,2000,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5108d,sebl5108_tfm_csi_stat_upd.bat,Optima Customer Invoice NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5114c,sebl5114_tfm_ap_payments.bat,Optima Vendor Invoice NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5122d,sebl5122_tfm_postoi_upd.bat,Optima Post OI NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5128e,sebl5128_tfm_sca_off_inv.bat,Optima On Invoice Scalable NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5138c,sebl5138_tfm_treasury_upd.bat,Optima Treasury NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5304g,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5304h,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5304j,sebl5304_tfm_shp_init_upd.bat,Optima Shipment FunGenload NT Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5306g,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5306h,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5306j,sebl5306_tfm_shp_fund_imp.bat,Optima Shipment FunGenCalc NT Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5308g,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,50,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5308h,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5308j,sebl5308_tfm_shp_fund_upd.bat,Optima Shipment FunGenUpdate NT Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5318g,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5318h,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5318j,sebl5318_tfm_chld_upd.bat,Optima Shipment Child Accrual Update NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5320g,sebl5320_tfm_ci_index_upd.bat,Optima Shipment CI Index NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5322g,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5322h,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5322j,sebl5322_tfm_mpa_upd.bat,Optima Shipment MPA NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5324j,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,46,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5324l,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5324m,sebl5324_tfm_fnd_frcst.bat,Optima Shipment Fund Forecast NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5328c,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,Y,,2220,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5328e,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5328g,sebl5328_tfm_fund_transfer.bat,Optima Fund Transfer NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5330c,sebl5330_tfm_fund_adjust.bat,Optima Fund Adjustment NT Job,Y,40,Y,,1915,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5335c,sebl5335_tfm_acc_team.bat,Optima Account Team NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5505c,sebl5505_tfm_merged_sdcprd.bat,Optima SDC Products NT Job,Y,60,Y,,1345,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5507c,sebl5507_tfm_merged_sdc.bat,Optima SDC Accounts NT Job,Y,80,Y,,1430,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5705c,sebl5705_tfm_nsu_mt_imp.bat,Optima Nos_MT NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5707c,sebl5707_tfm_pri_imp.bat,Optima Pricelist NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5715c,sebl5715_tfm_niv_su_upload.bat,Optima NIV/SU NT Job,Y,80,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5717c,sebl5717_tfm_tt_pec_upload.bat,Optima TT Perc NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5725c,sebl5725_tfm_rev_var_cost.bat,Optima RVC NT Job,Y,40,N,,1915,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5727c,sebl5727_tfm_upload_compl.bat,Optima Compliance Upload NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5727e,sebl5727_tfm_upload_compl.bat,Optima Compliance Upload NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5729c,sebl5729_tfm_pln_prd_upd.bat,Optima Plan Upload NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5733c,sebl5733_optima_year_end.bat,Optima Year End Accrual Upload NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5733e,sebl5733_optima_year_end.bat,Optima Year End Accrual Upload NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5735c,sebl5735_tfm_fund_rate_upd.bat,Optima Fund Rate NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5745c,sebl5745_tfm_del_brdsplit.bat,Optima Brandsplit Delete NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5752e,sebl5752_tfm_sca_rev_oi.bat,Optima On Invoice Reverse Scalable NT Job,Y,40,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5765c,sebl5765_tfm_autogtin_wf.bat,Optima Auto Add GTIN Workflow,Y,40,Y,,1700,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5900c,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5900c,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1900,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5900c,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,100,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5901c,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5901c,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1900,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5901c,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,100,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5903c,sebl5903_tfm_wf_adj_mail.bat,Optima Adjustment E-mail Workflow,Y,40,N,600,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5905e,sebl5905_tfm_wf_interflg.bat,Oninvoice Interface Flag Workflow,Y,40,N,1530,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5906c,sebl5906_tfm_wf_fundgrp.bat,Optima Inactive Funds Groups Workflow,Y,40,N,0,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5910c,sebl5910_tfm_wf_SVP.bat,Optima SVP Workflow,N,60,N,,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5911c,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,2000,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5911c,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5911c,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,1430,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5912c,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,2000,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5912c,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,1430,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5912c,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,300,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5913c,sebl5913_tfm_promo_notifi.bat,Optima Promotion Notification E-Mail Workflow,Y,40,N,5,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5920c,sebl5920_tfm_wf_oneup.bat,Oneup Manager E-mail Workflow,Y,40,N,15,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5921c,sebl5921_tfm_wf_oiexec.bat,OI Exceeded Email Workflow,Y,60,N,20,,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG409@ADLN5755,SEBLJ31ux,sebl31_tfm_bpt_mat_ref1.sh,BPT Refresh Materialized View1 Unix Job,N,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ32ux,sebl32_tfm_bpt_mat_ref2.sh,BPT Refresh Materialized View2 Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5100u,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,600,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5100v,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,1300,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5100w,sebl5100_optima_sid_io.sh,Optima SID-IO Unix Job,Y,60,N,0,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5103u,sebl5103_optima_actuals.sh,Optima Upload Actuals Unix Job,Y,40,Y,1930,1845,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5105u,sebl5105_optima_act_hdr.sh,Optima Actuals Payment Header UNIX Job,Y,40,Y,,2010,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5107u,sebl5107_optima_cst_inv.sh,Optima Customer Invoice UNIX Job,Y,40,N,1400,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5113u,sebl5113_optima_ap_pay.sh,Optima Offinvoice Unix Job,Y,40,N,1430,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5121u,sebl5121_optima_post_oi.sh,Optima Post OI Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5123u,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5123v,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5123w,sebl5123_optima_acc_cmp.sh,Optima Accrual Comparison Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5125u,sebl5125_optima_custom_del.sh,Optima Customer Deletion Unix Job,Y,40,N,30,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5140u,sebl5140_optima_treasury.sh,Optima Treasury Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ52ux,sebl52_optima_ff_daily.sh,Optima Fund Forecast Daily Unix Job,Y,60,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5300u,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,1200,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5300v,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5300w,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5300x,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5300y,sebl5300_optima_shipmaster.sh,Optima Shipmaster Unix Job,Y,60,N,500,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5302u,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5302v,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5302w,sebl5302_optima_merge_load.sh,Optima Merge Load Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5303u,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5303v,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5303w,sebl5303_optima_fundgnload.sh,Optima Shipment FundGen Load Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5305u,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5305v,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5305w,sebl5305_optima_fundgncalc.sh,Optima Shipment FunGenCalc Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5307u,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5307v,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5307w,sebl5307_optima_fundgnupd.sh,Optima Shipment FunGenUpdate Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5317u,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5317v,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5317w,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5317x,sebl5317_optima_child_upd.sh,Optima Shipment Child Accrual Update Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5319u,sebl5319_optima_ciindxload.sh,Optima Shipment CI Index Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5321u,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5321v,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5321w,sebl5321_optima_mpa_load.sh,Optima Shipment MPA Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5323u,sebl5323_optima_frcst_load.sh,Optima Shipment Fund Forecast Unix Job,Y,46,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5327u,sebl5327_optima_fund_trans.sh,Optima Fund Transfer Unix Job,Y,40,Y,,2210,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5329u,sebl5329_optima_fund_adjst.sh,Optima Fund Adjustment Unix Job,Y,40,Y,1900,1915,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5332u,sebl5332_optima_int_ord.sh,Optima Internal Order Unix Job,Y,40,N,1830,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5334u,sebl5334_tfm_acc_team.sh,Optima Account Team Unix Job,Y,40,N,1900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5338u,sebl5338_optima_error_rep.sh,Optima Consolidated Error Reports Unix Job,Y,40,N,0,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ53ux,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ53vx,sebl53_optima_ship_load.sh,Optima Shipload Unix Job,Y,40,N,800,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ54ux,sebl54_tfm_sdc_ax.sh,Send GC to AX after Global SVP completes Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5500u,sebl5500_sdc_view_load1.sh,Optima SDC Views load1 Unix Job,Y,40,Y,1130,1145,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5502u,sebl5502_sdc_view_load3.sh,Optima SDC Views load3 Unix Job,Y,40,Y,1130,1145,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5504u,sebl5504_optima_prd_sdc.sh,Optima SDC Products Unix Job,Y,100,Y,,1150,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5506u,sebl5506_optima_acc_sdc.sh,Optima SDC Accounts Unix Job,Y,60,Y,,1350,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5508u,sebl5508_optima_err_sdc.sh,Optima SDC Error Report Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5512u,sebl5512_optima_promo_cost.sh,Optima Promo Cost Unix Job,Y,45,Y,,2200,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ55ux,sebl55_tfm_ax_revcost.sh,Recieve GC from AX to RevCost Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ56ux,sebl56_tfm_fundtrnsfr_ax.sh,Optima Ax Fund Trasfer Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5706u,sebl5706_optima_price_list.sh,Optima Pricelist Unix Job,Y,155,N,1900,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5708u,sebl5708_optima_base_svp.sh,Optima SVP Aggregation Unix Job,Y,50,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5714u,sebl5714_optima_niv_su.sh,Optima NIV/SU Unix Job,Y,40,N,,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5716u,sebl5716_optima_tt_perc.sh,Optima TT Perc Unix Job,Y,40,N,1400,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG409@ADLN5755,SEBLJ5718u,sebl5718_optima_ps_ext_prd.sh,Optima PS Extract Unix Job,Y,40,N,1600,,N,Y,Optima WE ,HPE_CDS_TFM_Optima_TX_L2,WETX,WE,Tx,Linux
+SEBLG407@SIEBEL116,SEBLJ5752b,sebl5752_tfm_sca_rev_oi.bat,Optima On Invoice Reverse Scalable NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5765a,sebl5765_tfm_autogtin_wf.bat,Optima Auto Add GTIN Workflow,Y,40,Y,,545,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5900a,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5900a,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,100,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5900a,sebl5900_tfm_wf_accrflg.bat,Optima Accrual Flag Workflow,Y,40,N,1900,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5901a,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5901a,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,100,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5901a,sebl5901_tfm_wf_pricelist.bat,Optima Pricelist Workflow,Y,40,N,1900,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5903a,sebl5903_tfm_wf_adj_mail.bat,Optima Adjustment E-mail Workflow,Y,40,N,600,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5905a,sebl5905_tfm_wf_interflg.bat,Oninvoice Interface Flag Workflow,Y,40,N,900,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5906a,sebl5906_tfm_wf_fundgrp.bat,Optima Inactive Funds Groups Workflow,Y,40,N,0,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5911a,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,1430,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5911a,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5911a,sebl5911_tfm_pmnts_email.bat,Optima Payments E-Mail Workflow,Y,40,N,2000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5912a,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,300,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5912a,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,1430,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5912a,sebl5912_tfm_promo_email.bat,Optima Promotions E-Mail Workflow,Y,40,N,2000,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5913a,sebl5913_tfm_promo_notifi.bat,Optima Promotion Notification E-Mail Workflow,Y,40,N,0005,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5920a,sebl5920_tfm_wf_oneup.bat,Oneup Manager E-mail Workflow,Y,40,N,15,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5921a,sebl5921_tfm_wf_oiexec.bat,OI Exceeded Email Workflow,Y,40,N,20,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5922a,sebl5922_tfm_wf_prmoapprov.bat,Promotion Approval to Owner Email Workflow,Y,40,N,30,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5923a,sebl5923_rev_promo_notifi.bat,Reverse Promotion Notification E-mail Workflow,N,60,N,600,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5756a,sebl5756_tfm_ff_index.bat,Optima Fund Forecast Index NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5330f,sebl5330_tfm_fund_adjust.bat,Optima Fund Adjustment NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ5735f,sebl5735_tfm_fund_rate_upd.bat,Optima Fund Rate NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001a,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001b,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001c,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001d,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001e,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001f,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001g,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001h,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001i,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001j,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001k,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001l,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001m,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001n,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001p,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2015ap,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,40,Y,,815,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2016a,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2220a,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,Y,,940,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2222a,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,Y,,1000,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2002b,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite ANZ NT Job,Y,60,N,1735,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2018a,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,Y,,950,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2019a,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,Y,,940,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2005a,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,Y,800,815,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2005b,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,900,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2101a,sebl2101_ship_add_gtin.bat,RDS GTIN NT Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ1011a,sebl1011_export_user.bat,Anaplan Users Export NT Job,N,60,N,430,,Y,N,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2017a,sebl2017_ana_usr_security.bat,Anaplan Users Security NT Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001o,sebl2001_imp_opt_anaplan.bat,Anaplan Users import NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ1012a,sebl1012_import_user_sat.bat,Anaplan Users Satellite Import NT Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ1013a,sebl1013_snapshot_user.bat,Anaplan Users Snapshot NT Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ1014a,sebl1014_user_access.bat,Anaplan Users Access NT Job,N,60,N,1900,,Y,N,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2002a,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite JP NB Jhb,Y,60,N,1730,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2003a,sebl2003_ana_ffm_lock.bat,Anaplan FFM lock JP NT Job,N,60,N,,,Y,N,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2003b,sebl2003_ana_ffm_lock.bat,Anaplan FFM lock ANZ NT Job,N,60,N,,,Y,N,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001af,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001bf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001cf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001df,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001ef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001ff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001gf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001kf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2001lf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2221a,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG407@SIEBEL116,SEBLJ2004a,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Optima ASIA ,HPE_CDS_TFM_Optima_TX_L2,APTX,AP,Tx,NT
+SEBLG408@-SIEBEL114,SEBLJ5104d,sebl5104_tfm_act_pay_imp.bat,Optima Upload Actuals NT Job,Y,40,Y,,2000,N,Y,Optima CEEMEA ,HPE_CDS_TFM_Optima_TX_L2,CETX,CE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2007ab,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA APAC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2010aa,sebl2010_pea_exp_ana_ce.bat,Anaplan Export PEA EMEA NT Job,Y,40,N,130,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2010ab,sebl2010_pea_exp_ana_ce.bat,Anaplan Export PEA EMEA NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2011aa,sebl2011_pea_exp_ana_apac.bat,Anaplan Export PEA APAC NT Job,Y,40,N,145,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2011ab,sebl2011_pea_exp_ana_apac.bat,Anaplan Export PEA APAC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2006ac,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA LA NT Job,Y,40,N,110,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2007ac,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA LA NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2012aa,sebl2012_pea_exp_ana_la.bat,Anaplan Export PEA LA NT Job,Y,40,N,205,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2012ab,sebl2012_pea_exp_ana_la.bat,Anaplan Export PEA LA NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ua,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uaf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ub,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ubf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uc,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ucf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ud,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001udf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ue,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ug,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ugf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uh,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ui,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uj,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001uk,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ukf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ul,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ulf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001um,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001un,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001up,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2002ua,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite UKC NB Jhb,Y,40,N,130,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2002ub,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite UKC NB Jhb,Y,40,N,135,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2003ua,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock UKC1 NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2003ub,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock UKC2 NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005ub,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,N,1600,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005uc,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,1530,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2006ad,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA WE NT Job,Y,250,N,1900,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2007ad,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA WE NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2013aa,sebl2013_pea_exp_ana_we.bat,Anaplan Export PEA WE NT Job,Y,40,N,220,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2013ab,sebl2013_pea_exp_ana_we.bat,Anaplan Export PEA WE NT Job,Y,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2015ua,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,260,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2016u,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,100,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2018u,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2019u,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2220u,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2221u,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2222u,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2004u,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001a,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001b,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001c,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001d,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001e,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001f,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001g,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001h,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001i,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001j,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001k,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001l,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001m,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001n,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001p,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2015a,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,40,Y,,815,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2016a,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2220a,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,Y,,940,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2222a,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,Y,,1000,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2002b,sebl2002_imp_hub_anaplan.bat,Anaplan Satellite ANZ NT Job,Y,60,N,1635,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2018a,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,Y,,950,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2019a,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,Y,,940,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005a,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,Y,800,815,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005b,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,900,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001o,sebl2001_imp_opt_anaplan.bat,Anaplan Users import NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2002a,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite JP NB Jhb,Y,60,N,1630,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2003a,sebl2003_ana_ffm_lock.bat,Anaplan FFM lock JP NT Job,N,60,N,,,Y,N,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2003b,sebl2003_ana_ffm_lock.bat,Anaplan FFM lock ANZ NT Job,N,60,N,,,Y,N,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001af,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001df,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001gf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001kf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001lf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2221a,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2004a,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bl,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bm,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bn,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bp,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2002bi,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Hub to Satellite NB Jhb,Y,60,N,130,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2015ba,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,40,N,,,Y,N,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2016b,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2018b,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2019b,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2220b,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005bb,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,N,1400,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005bc,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,1530,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ob,sebl2001_imp_opt_anaplan.bat,Anaplan Users import NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2003ba,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock SA NT Job,N,60,N,,,Y,N,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001baf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bbf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bcf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bdf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bfz,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bgf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001bkf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001blf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2221b,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2222bz,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2004b,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ca,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cb,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cc,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cd,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ce,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cg,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ch,sebl2001_imp_opt_anaplan.bat,Anaplan Sufficiency Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ci,sebl2001_imp_opt_anaplan.bat,Anaplan Promotion SID NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cj,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ck,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cl,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cm,sebl2001_imp_opt_anaplan.bat,Anaplan Shipment Volume NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cn,sebl2001_imp_opt_anaplan.bat,Anaplan Sysdate NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001co,sebl2001_imp_opt_anaplan.bat,Anaplan Users import NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cp,sebl2001_imp_opt_anaplan.bat,Anaplan Promo Error Report NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2002ca,sebl2002_imp_hub_anaplan.bat,Anaplan Anaplan Satellite BR NB Jhb,Y,60,N,500,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2003ca,sebl2003_ana_ffm_lock.bat,Anaplan FFM Lock BR NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005ca,sebl2005_exp_anaplan_opt.bat,Anaplan Export Download NT Job,Y,40,N,2000,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2005cb,sebl2005_exp_anaplan_opt.bat,Anaplan SVP NT Job,Y,40,N,830,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2015ca,sebl2015_tfm_wf_ana_rcsv.bat,Anaplan to Optima Workflow,Y,40,N,,,Y,N,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2016ca,sebl2016_tfmwfana_rtsvol.bat,Anaplan TSP Staging Data NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2018ca,sebl2018_Promo_Acc_Del.bat,Anaplan Deletion into Import Hub NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2019ca,sebl2019_imp_hub_anaplan.bat,Anaplan Import Hub NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2220ca,sebl2220_handshake.bat,Anaplan Handshake NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2222ca,sebl2222_snapshot.bat,Anaplan Snapshot NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cfz,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001caf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cbf,sebl2001_imp_opt_anaplan.bat,Anaplan Customer Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ccf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Hierarchy NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cdf,sebl2001_imp_opt_anaplan.bat,Anaplan Product Attributes NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cef,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Details NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cff,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Products NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001cgf,sebl2001_imp_opt_anaplan.bat,Anaplan Fund Adjustment Transfers NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001ckf,sebl2001_imp_opt_anaplan.bat,Anaplan Optima Actual Payments NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2001clf,sebl2001_imp_opt_anaplan.bat,Anaplan RVC NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2221c,sebl2221_Act_Accept_Del.bat,Anaplan Activity Accepeted Delete NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2004c,sebl2004_suff_hubtosat.bat,Anaplan Sufficiency Satellite NT Job,N,60,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2006aa,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA CEEMEA NT Job,Y,40,N,100,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2006ab,sebl2006_pea_imp_anaplan.bat,Anaplan import PEA APAC NP Jib,Y,40,N,1300,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT
+SEBLG411@SIEBEL119,SEBLJ2007aa,sebl2007_pea_imp_hub_anpln.bat,Import Satellite PEA EMEA NT Job,Y,40,N,,,N,Y,Anaplan - All region,Anaplan workgroup,WETX,WE,Tx,NT

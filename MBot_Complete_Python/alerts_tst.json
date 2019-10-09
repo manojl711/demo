@@ -1,0 +1,82 @@
+{
+  "ALERTED": {
+    "0": "N",
+    "1": "N",
+    "2": "N",
+    "3": "N",
+    "4": "N",
+    "5": "N"
+  },
+  "ORDER_ID": {
+    "0": "4c46w",
+    "1": "4c3jz",
+    "2": "4c46s",
+    "3": "4c3oe",
+    "4": "4c3mp",
+    "5": "4c3ll"
+  },
+  "ODATE": {
+    "0": 190623,
+    "1": 190623,
+    "2": 190623,
+    "3": 190623,
+    "4": 190623,
+    "5": 190623
+  },
+  "STATUS": {
+    "0": "FAILED",
+    "1": "FAILED",
+    "2": "NOTSTART",
+    "3": "FAILED",
+    "4": "FAILED",
+    "5": "LONGRUN"
+  },
+  "JOB_NAME": {
+    "0": "SEBLJ1012a",
+    "1": "SEBLJ1012b",
+    "2": "SEBLJ2005a",
+    "3": "SEBLJ2024u",
+    "4": "SEBLJ2026bxf",
+    "5": "SEBLJ5512e"
+  },
+  "ORDER_TABLE": {
+    "0": "SEBLG407@-SIEBEL016",
+    "1": "SEBLG408@-SIEBEL014",
+    "2": "SEBLG407@-SIEBEL016",
+    "3": "SEBLG409@SDHN5569",
+    "4": "SEBLG408@SDHN5569",
+    "5": "SEBLG408@SDHN5569"
+  },
+  "REGION": {
+    "0": "AP",
+    "1": "CE",
+    "2": "AP",
+    "3": "WE",
+    "4": "CE",
+    "5": "CE"
+  },
+  "APPLICATION": {
+    "0": "TX",
+    "1": "TX",
+    "2": "TX",
+    "3": "TX",
+    "4": "TX",
+    "5": "TX"
+  },
+  "JOB_TYPE": {
+    "0": "NT",
+    "1": "NT",
+    "2": "NT",
+    "3": "UNIX",
+    "4": "UNIX",
+    "5": "UNIX"
+  },
+  "WORK_GROUP": {
+    "0": "APTX",
+    "1": "CETX",
+    "2": "APTX",
+    "3": "WETX",
+    "4": "CETX",
+    "5": "CETX"
+  }
+}
